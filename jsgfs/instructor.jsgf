@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<prof> = professor | prof. | prof | instructor | teacher | lecturer | educator| adviser| faculty member | faculty | supervisor ;
+
+<name> =  name | email | e-mail | mail_id |mail id | email_id | email id | email-id | email-address | email address | email_address | office_hours | office hours | working_hours |  working hours  | advising_hours | advising hours  | office_timings | office timings | advising_time | advising time | advising_timings | advising timings | meeting_timings | meeting timings | meeting_hours | meeting hours | office_location | office location | office | room_no |  room no. | room number | room no | work station | whereabouts | desk ;
+
+public <command> = [<name>] [of] <prof> ;
+
+public <command> = <prof> [<name>] ;
+
