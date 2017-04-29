@@ -1,0 +1,21 @@
+#JSGF V1.0;
+
+grammar blender;
+
+<objective> = objective | goal | purpose | intent | aim  ;
+
+<clo> = clo | class learning objective ;
+
+<course> = program | module | course | technology | class ;
+
+<command1> = <course> <objective> ;
+
+<command2> = <objective> [of ] <course> ;
+
+<of> = of  ;
+
+public <command> = <objective> <of> [<course>] ;
+
+public <command> = <course> <objective> ;
+
+public <command> = <clo> ;

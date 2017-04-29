@@ -6,6 +6,7 @@ grammar slackbot;
 
 <name> = name | description | brief | explanation | summary | detail | declaration | abstraction |  prerequisites | specifications | specification | prerequisite | pre-requisites | prereq | essentials | essential | preconditions | precondition | condition | terms | requisite | requisites | must | required | mandatory | needed | needful | foremost | necessary | website | web link | site | web-link ;
 
-public <command> = [<name>] [of | for] <course> ;
-
+<of> = of | for ;
 public <command> = <course> <name> ;
+
+public <command> = <name> <of> <course> ;

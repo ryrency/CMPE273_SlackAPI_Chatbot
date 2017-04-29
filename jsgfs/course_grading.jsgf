@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<task> = pop quizzes | quizzes | quiz | lab | assignment | lab | assignments | mid-term | exam | final-exam | mid term | final exam | class project | class_project | final project | project ;
+
+<grading> = grading | grading system  | grading criteria | weightage | grading policy | grading weightage ;
+
+<of> = of | for ;
+
+public <command> = <task> <grading> ;
+
+public <command> = <grading> ;
+
+public <command> = <grading> [<of>] <task> ;

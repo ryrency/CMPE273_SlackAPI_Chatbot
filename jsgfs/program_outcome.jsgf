@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<outcome> = program outcome | po | outcome | result | benefit | gain | profit ;
+
+<course> = program | module | course | technology | class ;
+
+<of> = of | for | from ;
+
+<the> = the | this ;
+public <command> = <outcome> [<of> <the>] <course> ;
+
+public <command> = [<the> <course>] <outcome> ;

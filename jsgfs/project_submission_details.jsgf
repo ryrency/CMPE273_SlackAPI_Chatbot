@@ -4,7 +4,5 @@ grammar slackbot;
 
 <deadline> = deadline | due | due date | due-date | last day | last date | finishing date | target date | end date | time frame ;
 
-
-
-public command = <deadline> [of | for] [<numbers>] <assignment> [<numbers>];
-public command = [<numbers>] <assignment> [<numbers>] <deadline> ;
+public command = <deadline> [of | for]  <project> ;
+public command =  <project>  <deadline> ;

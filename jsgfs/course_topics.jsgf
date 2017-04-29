@@ -8,6 +8,8 @@ grammar slackbot;
 
 <week> = week | this week | next week | coming week | next class;
 
+<of> = of | for ;
+
 public <command> = [<week>] [<course>] <topic> ;
 
-public <command> = [<course>] <topic> [of | for] [<week>]; 
+public <command> = [<course>] <topic> [<of> <week>];
