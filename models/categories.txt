@@ -1,0 +1,1 @@
+["course-name", "course_grading", "course_learning_objectives", "course_topics", "instructor", "program_outcome", "university_policy"]
