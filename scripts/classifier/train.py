@@ -6,6 +6,7 @@ from sklearn.pipeline import Pipeline
 import numpy as np
 from sklearn.externals import joblib
 import json
+from sklearn.linear_model import SGDClassifier
 
 train_dir = "./data/train"
 test_dir = "./data/test"
@@ -38,7 +39,9 @@ for filename in os.listdir(test_dir):
             test_data.append(line)
             test_targets.append(target_index)
 
-text_clf = Pipeline([('vect', CountVectorizer()), ('tfidf', TfidfTransformer()), ('clf', MultinomialNB())])
+text_clf = Pipeline([('vect', CountVectorizer(min_df = 0)),
+                     ('tfidf', TfidfTransformer()),
+                     ('clf', SGDClassifier(loss='hinge', penalty='l2', alpha=1e-3, n_iter=5, random_state=42))])
 text_clf = text_clf.fit(train_data,train_targets)
 
 predicted = text_clf.predict(test_data)
