@@ -93,7 +93,7 @@ create table course_section_details(
 
 create table university_policy(
     code int auto_increment not null primary key,
-    name varchar(255),
+    name text(255),
     description varchar(255)
 );
 
