@@ -13,20 +13,26 @@ INSERT INTO course_sections(course_id, section_no)
 VALUES(1, "01");
 
 
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-02-02 11:59:00","Lab1");
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-03-08 11:59:00","Assignment 1");
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-03-22 11:59:00","Lab 2");
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-03-29 11:59:00","Assignment 2");
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-04-12 11:59:00","Lab 3");
-INSERT INTO submission_details	(course_section_id, due_date,activity)
-VALUES(1, "2017-04-26 11:59:00","Assignment 3");
-INSERT INTO submission_details (course_section_id, due_date,activity)
-VALUES(1, "2017-05-10 11:59:00","Lab 4");
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-02-02 11:59:00","Lab1", 0);
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-03-08 11:59:00","Assignment 1", 1);
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-03-22 11:59:00","Lab 2", 0);
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-03-29 11:59:00","Assignment 2", 1);
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-04-12 11:59:00","Lab 3", 0);
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-04-26 11:59:00","Assignment 3", 1);
+INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-05-10 11:59:00","Lab 4", 0);
+INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-05-10 11:59:00","Project", 2);
+INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-05-10 11:59:00","Mid-term", 3);
+INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
+VALUES(1, "2017-05-10 11:59:00","Final Exam", 4);
 
 
 INSERT INTO course_topics(course_section_id, lecture_date, topic)
@@ -68,18 +74,18 @@ INSERT INTO course_topics(course_section_id,lecture_date,topic)
 VALUES(1,"2017-05-24","Final Exam");
 
 
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Pop Quizzes","5%");
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Labs","5%");
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Assignment","30%");
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Class Project","20%");
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Mid-Term Exam","20%");
-INSERT INTO course_grading(course_section_id,activity,weight)
-VALUES(1, "Final Exam","20%");
+INSERT INTO course_grading(course_section_id, activity, weight, activity_type)
+VALUES(1, "Pop Quizzes","5%", 0);
+INSERT INTO course_grading(course_section_id, activity, weight, activity_type)
+VALUES(1, "Labs","5%", 1);
+INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
+VALUES(1, "Assignment","30%", 2);
+INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
+VALUES(1, "Class Project","20%", 3);
+INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
+VALUES(1, "Mid-Term Exam","20%", 4);
+INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
+VALUES(1, "Final Exam","20%", 5);
 
 
 INSERT INTO program_outcomes(course_section_id, description)

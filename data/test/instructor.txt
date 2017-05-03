@@ -1,145 +1,145 @@
-professor office hours
-office timings of prof
-work station of lecturer
-adviser email address
-office_location of educator
-prof advising timings
-office timings of instructor
-email_id of instructor
-educator email-address
-instructor office location
-meeting_hours of adviser
-room no of lecturer
-meeting_hours of faculty
-faculty room no
-lecturer desk
-email address of professor
-professor name
-advising time of adviser
-faculty desk
-meeting_timings of faculty member
-work station of educator
-advising timings of faculty member
-faculty member advising timings
-supervisor advising_timings
-advising timings of teacher
-adviser email-address
-email of adviser
-office hours of instructor
-working_hours of professor
-advising timings of lecturer
-email address of prof
-advising_time of supervisor
-meeting timings of teacher
-professor room_no
-educator meeting_timings
-professor e-mail
-email of professor
-prof mail id
-supervisor advising_time
-room no of instructor
-professor office timings
-instructor email id
-faculty meeting hours
-supervisor meeting timings
-educator working_hours
-faculty advising_time
-prof meeting_hours
-email of prof
-faculty room number
-faculty member working_hours
-lecturer mail id
-advising time of lecturer
-prof desk
-email-address of supervisor
-advising hours of prof
-teacher office
-desk of instructor
-office hours of faculty member
-email_address of adviser
-mail id of teacher
-meeting timings of faculty
-whereabouts of prof
-educator office_hours
-room number of faculty member
-faculty meeting_hours
-faculty email id
-prof email-id
-lecturer advising_hours
-teacher advising hours
-advising hours of faculty
-advising_timings of adviser
-lecturer office_location
-office location of educator
-mail id of instructor
-
-mail_id of instructor
-work station of professor
-adviser advising timings
-adviser email id
-adviser room no
+meeting timings of instructor
+name of lecturer
+professor email address
+room number of faculty
+teacher email
+instructor office hours
 room_no of educator
-supervisor email
-email_id of supervisor
-instructor meeting timings
-prof office_location
-office hours of faculty
-teacher email_id
-work station of teacher
-advising_timings of faculty member
-professor meeting_hours
-meeting hours of teacher
-office location of prof
-professor working hours
-name of adviser
-office_timings of educator
-lecturer meeting_hours
-lecturer room_no
-office location of adviser
-professor room no
-working_hours of faculty
-prof name
-faculty member name
-professor advising time
-supervisor advising hours
-faculty member email
-email of supervisor
-educator email-id
-educator desk
-faculty office_timings
-office_location of supervisor
-adviser email_id
-teacher advising time
-adviser email_address
-room no of educator
-email address of instructor
-room no of prof
-meeting_hours of prof
-faculty e-mail
-room number of teacher
-supervisor e-mail
-email-id of faculty
-prof advising_hours
-email_address of supervisor
-prof office_hours
-office of prof
-adviser room_no
+advising hours of lecturer
+whereabouts of faculty
+prof email address
+prof email_id
+room_no of supervisor
 educator office location
-e-mail of educator
-prof e-mail
-office_location of prof
-teacher email-address
-teacher advising timings
+supervisor desk
+instructor office_timings
+educator email address
+faculty mail_id
+lecturer email
 email-address of lecturer
-mail_id of faculty member
-professor room number
-educator meeting_hours
-supervisor meeting_timings
-email address of adviser
+mail id of instructor
+teacher email-address
+instructor meeting timings
+office_timings of faculty
+mail id of educator
+working_hours of supervisor
+room number of prof
+email of teacher
 teacher working_hours
-prof working hours
-room no of adviser
-teacher whereabouts
-working_hours of adviser
-office_hours of faculty
-e-mail of faculty
+desk of faculty member
+supervisor meeting_hours
+educator mail_id
+supervisor office_location
+room_no of lecturer
+faculty advising_hours
+prof email_address
+advising time of faculty
+e-mail of teacher
+name of educator
+office_hours of adviser
+office_hours of educator
+meeting hours of prof
+instructor work station
+mail_id of lecturer
+supervisor email id
+supervisor e-mail
+mail_id of faculty member
+
+instructor working_hours
+faculty member meeting hours
+office location of lecturer
+faculty email_id
+educator advising timings
+teacher meeting timings
+instructor advising timings
+adviser office_hours
+supervisor whereabouts
+meeting timings of professor
+teacher meeting hours
+email address of professor
+instructor advising hours
+lecturer email-id
+faculty member room no
+meeting_hours of faculty
+supervisor office_hours
+office location of prof
+lecturer meeting_hours
+room no of prof
+desk of adviser
+email of adviser
+lecturer meeting hours
+faculty work station
+desk of professor
+office hours of faculty member
+office timings of supervisor
+prof office_timings
+teacher working hours
+professor name
+meeting_timings of professor
+email of instructor
+mail id of professor
+faculty meeting timings
+room_no of faculty member
+office_timings of educator
+instructor mail id
+meeting hours of professor
+meeting_timings of prof
+working_hours of professor
+instructor email
+faculty email id
+mail_id of adviser
+adviser office location
+room_no of instructor
+office of teacher
+supervisor email
+supervisor room no
+office location of supervisor
+email_id of supervisor
+prof desk
+meeting_hours of adviser
+supervisor office location
+room no of faculty
+supervisor mail id
+meeting hours of lecturer
+whereabouts of adviser
+office_timings of prof
+instructor advising_hours
+professor email_id
+email_address of faculty member
+faculty member work station
+advising_hours of supervisor
+professor advising time
+work station of faculty member
+office_location of teacher
+office of instructor
+teacher office hours
+advising hours of instructor
+educator whereabouts
+instructor name
+educator office
+email-address of faculty member
+faculty room no
+email_id of teacher
+instructor email-id
+faculty office hours
+faculty member email-address
+advising timings of teacher
+meeting_timings of educator
+professor office hours
+teacher advising hours
+office timings of adviser
+email id of supervisor
+supervisor working hours
+office_location of faculty
+office of adviser
+lecturer office_location
+educator mail id
+supervisor advising time
+working hours of lecturer
+adviser room no
+instructor email_id
+office of prof
+mail id of prof
+working_hours of prof
+desk of faculty
+instructor email_address

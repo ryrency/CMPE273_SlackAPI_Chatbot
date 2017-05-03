@@ -1,0 +1,14 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<deadline> = deadline | due | due date | due-date | last day | last date | finishing date | target date | end date | time frame ;
+
+
+# <numbers_suffix> = one | 1 | first | two | 2 | second | three | 3 | third | four | 4 | fourth | five | 5 | fifth | six | 6 | sixth | seven | 7 | seventh | eight | 8 | eighth | nine | 9 | ninth;
+# <numbers_prefix> = first | second | third | fourth | fifth | sixth | seventh | eighth | ninth;
+
+<project> = project | projects;
+
+public <command> = <deadline> [of | for] <project>;
+public <command> = <project> <deadline> ;

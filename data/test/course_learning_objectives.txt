@@ -1,12 +1,12 @@
+course aim
+course objective
+objective of technology
 purpose of course
-program objective
-purpose of class
-class intent
-technology aim
-program aim
-intent of course
-goal of program
+class learning objective
 goal of class
-course purpose
-technology goal
-goal of technology
+objective of program
+course intent
+objective of course
+class intent
+intent of class
+course goal

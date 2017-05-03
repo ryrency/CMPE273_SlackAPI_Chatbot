@@ -1,0 +1,396 @@
+brief of class
+needed of program
+module prereq
+brief for class
+course pre-requisites
+specification for module
+brief for course
+condition of program
+prereq for course
+mandatory for module
+requisites of program
+technology prerequisite
+website of module
+web-link of class
+must for class
+precondition of course
+abstraction of course
+module specification
+prerequisite of program
+web-link of program
+abstraction for technology
+condition for program
+specifications of course
+class preconditions
+detail for course
+precondition for program
+prereq of module
+summary of technology
+web-link for module
+description of program
+technology explanation
+abstraction of class
+site of program
+program explanation
+detail of module
+pre-requisites for technology
+prereq of program
+foremost of program
+website of program
+course explanation
+specification of technology
+module prerequisite
+course web-link
+course web link
+pre-requisites of program
+specification for technology
+essential of program
+web link of module
+required of class
+module name
+pre-requisites for class
+technology mandatory
+class required
+required of technology
+specifications for technology
+class web link
+mandatory of class
+detail for class
+description of course
+essentials of class
+prerequisite for program
+program requisite
+class name
+web-link for course
+class prerequisites
+preconditions of class
+abstraction of module
+required for technology
+necessary for technology
+module explanation
+class requisite
+needed for course
+essentials of technology
+class prerequisite
+web link for program
+condition for module
+prereq of class
+class website
+preconditions for class
+technology prereq
+program essentials
+prerequisites of program
+must of course
+requisite of course
+essentials for module
+requisites of course
+terms for course
+class declaration
+needed for program
+course essentials
+abstraction of program
+web link for module
+module declaration
+program requisites
+technology website
+web link of course
+name for program
+required of course
+name of technology
+preconditions of technology
+necessary for module
+precondition of module
+preconditions for technology
+essential for technology
+course requisites
+class needed
+brief of course
+summary of course
+specification of class
+technology abstraction
+must for program
+technology precondition
+site for program
+required for class
+summary of program
+module detail
+class necessary
+module pre-requisites
+module foremost
+program name
+technology declaration
+prereq for technology
+specifications for program
+class web-link
+essentials of program
+terms of module
+explanation for course
+requisites for technology
+description of class
+prerequisites of class
+description for program
+abstraction for program
+program essential
+essential for program
+site for class
+class specifications
+class detail
+class essentials
+program abstraction
+terms for technology
+class explanation
+program must
+class terms
+brief of program
+foremost for program
+technology brief
+explanation of course
+program precondition
+terms for program
+website of course
+detail of program
+detail for technology
+needful for class
+name for class
+required of program
+technology prerequisites
+specification for course
+specifications for course
+course specifications
+web-link for program
+website of technology
+terms of course
+program prereq
+module must
+web-link of technology
+pre-requisites for program
+prerequisite for course
+web-link for class
+requisite for technology
+requisites of module
+program specification
+condition for course
+class brief
+summary for module
+needful for program
+requisites for program
+class summary
+description of technology
+precondition of class
+technology specification
+site of module
+name of module
+specification of course
+module precondition
+needed for technology
+name for technology
+technology condition
+must for module
+module website
+program required
+prerequisite of technology
+declaration for class
+preconditions for module
+prerequisite of course
+module essentials
+requisite of technology
+needed of class
+needful of module
+module summary
+program prerequisites
+course required
+brief of module
+technology web link
+mandatory of program
+preconditions for course
+class precondition
+name for module
+specification of module
+technology required
+technology detail
+must of module
+needful for course
+requisites of technology
+program terms
+module prerequisites
+course prerequisite
+technology web-link
+foremost of module
+course essential
+foremost of course
+name of program
+condition of technology
+prereq for program
+class needful
+foremost of class
+web link for course
+essentials of course
+program pre-requisites
+technology name
+abstraction for course
+essential of technology
+necessary of program
+program declaration
+web link of program
+class pre-requisites
+necessary of technology
+course needful
+course mandatory
+precondition for course
+module necessary
+class foremost
+must for course
+essentials of module
+explanation of technology
+mandatory of module
+precondition of technology
+web-link of course
+class description
+technology summary
+needed for class
+mandatory of course
+terms of technology
+explanation for technology
+course preconditions
+prereq for module
+program specifications
+necessary for program
+web link of class
+technology essentials
+module specifications
+class mandatory
+mandatory of technology
+terms of class
+pre-requisites of course
+course terms
+class site
+technology needed
+course prerequisites
+web link of technology
+needful of technology
+summary for course
+module web-link
+terms for class
+description for technology
+necessary of module
+requisite for class
+condition for class
+mandatory for program
+specifications for module
+summary for technology
+summary for program
+explanation for module
+prerequisite of module
+preconditions of program
+detail of technology
+terms of program
+course detail
+declaration of module
+pre-requisites for module
+program detail
+website of class
+detail for module
+necessary of class
+name of class
+preconditions for program
+class essential
+explanation of module
+course abstraction
+essentials for course
+explanation for class
+course site
+prerequisites of module
+essential of class
+necessary for class
+needful of class
+specification of program
+module web link
+course foremost
+precondition of program
+program mandatory
+necessary of course
+declaration of class
+pre-requisites of technology
+site for technology
+requisite for course
+class abstraction
+prerequisites for module
+technology pre-requisites
+description for module
+site of course
+summary for class
+course condition
+mandatory for class
+technology essential
+prerequisite of class
+prerequisites of course
+explanation of program
+module required
+web link for class
+pre-requisites of module
+web-link of module
+needful for technology
+program condition
+foremost for class
+foremost for technology
+class specification
+course brief
+requisite of program
+module mandatory
+condition of module
+pre-requisites for course
+brief for technology
+summary of class
+program description
+must of program
+course needed
+prerequisites for course
+technology needful
+brief of technology
+module needful
+website for module
+web link for technology
+declaration of technology
+technology must
+name for course
+technology requisite
+requisite of module
+detail of class
+prerequisite for class
+requisite of class
+technology preconditions
+module description
+summary of module
+essential for class
+abstraction for class
+program web-link
+prereq of course
+module terms
+course requisite
+requisites for course
+requisite for module
+course description
+condition for technology
+essential of module
+precondition for module
+description for class
+specifications of class
+technology site
+required of module
+website for course
+prerequisite for technology
+brief for program
+website for technology
+
+must for technology
+preconditions of course
+module site
+technology requisites
+pre-requisites of class
+abstraction of technology
+necessary for course
+program website
+course declaration
+declaration for module
+module abstraction
+course summary

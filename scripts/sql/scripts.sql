@@ -29,12 +29,15 @@ create table course_sections(
     CONSTRAINT CRSE_SEC UNIQUE (course_id,section_no)
 );
 
-create table submission_details			(
+create table course_schedules(
     id int auto_increment not null primary key,
 	course_section_id int not null,
     due_date timestamp ,
+    activity_type int not null,
     activity varchar(255),
     foreign key (course_section_id) references course_sections(id)
+
+    /* activity type 0=lab, 1=assignment, 3=project, 4= mid-term, 5=final*/
 );
 
 create table course_topics(
@@ -49,8 +52,11 @@ create table course_grading(
     id int auto_increment not null primary key,
 	course_section_id int not null,
     activity varchar(255),
+    activity_type int not null,
     weight varchar(20),
     foreign key (course_section_id) references course_sections(id)
+
+    /* 0=quiz, 1=lab, 2=assignment, 3=project, 4=mid-term, 5=final */
 );		
 
 create table program_outcomes(

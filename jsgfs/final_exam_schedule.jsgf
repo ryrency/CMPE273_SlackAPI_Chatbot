@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<date> = date | time | schedule | timeline;
+<finals> = final | final exam | finals | final exams;
+
+public <command> = <date> [of | for] <finals>;
+public <command> = <finals> <date> ;

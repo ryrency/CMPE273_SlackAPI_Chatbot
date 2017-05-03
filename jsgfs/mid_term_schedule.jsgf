@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<date> = date | time | schedule | timeline;
+<mid_term> = mid term | mid-term | mid terms | mid-terms;
+
+public <command> = <date> [of | for] <mid_term> [exam | exams];
+public <command> = <mid_term> [exam | exams] <date> ;
