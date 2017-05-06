@@ -10,6 +10,12 @@ goal of module
 goal of course
 goal of technology
 goal of class
+goals of
+goals of program
+goals of module
+goals of course
+goals of technology
+goals of class
 purpose of
 purpose of program
 purpose of module
@@ -28,30 +34,50 @@ aim of module
 aim of course
 aim of technology
 aim of class
+objectives of
+objectives of program
+objectives of module
+objectives of course
+objectives of technology
+objectives of class
 program objective
 program goal
+program goals
 program purpose
 program intent
 program aim
+program objectives
 module objective
 module goal
+module goals
 module purpose
 module intent
 module aim
+module objectives
 course objective
 course goal
+course goals
 course purpose
 course intent
 course aim
+course objectives
 technology objective
 technology goal
+technology goals
 technology purpose
 technology intent
 technology aim
+technology objectives
 class objective
 class goal
+class goals
 class purpose
 class intent
 class aim
+class objectives
+clo
+class learning objective
+clo
+class learning objective
 clo
 class learning objective

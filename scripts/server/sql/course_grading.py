@@ -8,9 +8,9 @@ def get_course_grading_details(text):
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
 
-    course_section = get_course_section(text, course)
+    (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found."
+        return "Sorry no matching section found for " + course['name']
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
@@ -30,14 +30,14 @@ def get_course_grading_details(text):
             for c_w in course_weights:
                 weights[c_w['activity']] = c_w['weight']
 
-            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights)
+            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)
         else:
             # if no matching activity found, return the grading policy for course
             weights = {}
             for c_w in course_weights:
                 weights[c_w['activity']] = c_w['weight']
 
-            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights)
+            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)
 
 def _get_course_weights(course_section_id):
     connection = get_mysql_connection()

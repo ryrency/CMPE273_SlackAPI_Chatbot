@@ -8,9 +8,9 @@ def get_instructor_details(text):
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
 
-    course_section = get_course_section(text, course)
+    (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found."
+        return "Sorry no matching section found for " + course['name']
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
@@ -22,7 +22,7 @@ def get_instructor_details(text):
 
 def _get_instructor(course_section_id):
     course_section_details = _get_course_section_details(course_section_id)
-    print(course_section_details)
+    #print(course_section_details)
     if not course_section_details:
         return None
 
@@ -70,4 +70,4 @@ def _get_instructor_detail(instructor, text, course_section_name):
     elif 'contact' in text:
         return "You can reach" + instructor['name']  + "at " + instructor['email'] + ", " + str(instructor['office_phone'])
     else:
-        return "Here are the instructor details: " + json.dumps(instructor)
+        return "Here are the instructor details: " + json.dumps(instructor, cls=DateTimeEncoder)

@@ -8,9 +8,9 @@ def get_learning_objectives(text):
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
 
-    course_section = get_course_section(text, course)
+    (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found."
+        return "Sorry no matching section found for " + course['name']
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
@@ -23,7 +23,7 @@ def get_learning_objectives(text):
         for l_o in learning_objectives:
             response.append(l_o['description'])
 
-        return "Here are the learning objectives for " + course_section_name + ": " + json.dumps(response)
+        return "Here are the learning objectives for " + course_section_name + ": " + json.dumps(response, cls=DateTimeEncoder)
 
 
 

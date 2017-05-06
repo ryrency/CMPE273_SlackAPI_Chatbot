@@ -2,6 +2,7 @@ program name
 program description
 program brief
 program explanation
+program mandatory
 program summary
 program detail
 program declaration
@@ -35,6 +36,7 @@ module name
 module description
 module brief
 module explanation
+module mandatory
 module summary
 module detail
 module declaration
@@ -68,6 +70,7 @@ course name
 course description
 course brief
 course explanation
+course mandatory
 course summary
 course detail
 course declaration
@@ -101,6 +104,7 @@ technology name
 technology description
 technology brief
 technology explanation
+technology mandatory
 technology summary
 technology detail
 technology declaration
@@ -134,6 +138,7 @@ class name
 class description
 class brief
 class explanation
+class mandatory
 class summary
 class detail
 class declaration
@@ -203,6 +208,16 @@ explanation for module
 explanation for course
 explanation for technology
 explanation for class
+mandatory of program
+mandatory of module
+mandatory of course
+mandatory of technology
+mandatory of class
+mandatory for program
+mandatory for module
+mandatory for course
+mandatory for technology
+mandatory for class
 summary of program
 summary of module
 summary of course

@@ -3,7 +3,7 @@ import sys
 sys.path.append('./scripts/classifier')
 sys.path.append('./scripts/server/sql')
 from classifier import Classifier
-import instructor, course, program_outcomes, learning_objectives, lab_schedule, \
+import utils, instructor, course, program_outcomes, learning_objectives, lab_schedule, \
     assignment_schedule, project_schedule, mid_term_schedule, final_exam_schedule, \
     course_grading
 
@@ -15,6 +15,7 @@ app = Flask(__name__)
 def classify():
     text = request.args.get('text')
     text = text.lower()
+    text = utils.map_words_to_digits_in_text(text)
     question_type = txt_clf.classify(text)
     return _return_response_for_question(text, question_type)
 
@@ -40,7 +41,7 @@ def _return_response_for_question(text, label):
         elif label == 'course_grading':
             return course_grading.get_course_grading_details(text)
         else:
-            return label
+            return "Sorry I don't understand your question"
 
 if __name__ == "__main__":
     app.run(debug=True,host='localhost')

@@ -243,6 +243,111 @@ profit from this module
 profit from this course
 profit from this technology
 profit from this class
+outcomes program
+outcomes module
+outcomes course
+outcomes technology
+outcomes class
+outcomes of the program
+outcomes of the module
+outcomes of the course
+outcomes of the technology
+outcomes of the class
+outcomes of this program
+outcomes of this module
+outcomes of this course
+outcomes of this technology
+outcomes of this class
+outcomes for the program
+outcomes for the module
+outcomes for the course
+outcomes for the technology
+outcomes for the class
+outcomes for this program
+outcomes for this module
+outcomes for this course
+outcomes for this technology
+outcomes for this class
+outcomes from the program
+outcomes from the module
+outcomes from the course
+outcomes from the technology
+outcomes from the class
+outcomes from this program
+outcomes from this module
+outcomes from this course
+outcomes from this technology
+outcomes from this class
+benefits program
+benefits module
+benefits course
+benefits technology
+benefits class
+benefits of the program
+benefits of the module
+benefits of the course
+benefits of the technology
+benefits of the class
+benefits of this program
+benefits of this module
+benefits of this course
+benefits of this technology
+benefits of this class
+benefits for the program
+benefits for the module
+benefits for the course
+benefits for the technology
+benefits for the class
+benefits for this program
+benefits for this module
+benefits for this course
+benefits for this technology
+benefits for this class
+benefits from the program
+benefits from the module
+benefits from the course
+benefits from the technology
+benefits from the class
+benefits from this program
+benefits from this module
+benefits from this course
+benefits from this technology
+benefits from this class
+profits program
+profits module
+profits course
+profits technology
+profits class
+profits of the program
+profits of the module
+profits of the course
+profits of the technology
+profits of the class
+profits of this program
+profits of this module
+profits of this course
+profits of this technology
+profits of this class
+profits for the program
+profits for the module
+profits for the course
+profits for the technology
+profits for the class
+profits for this program
+profits for this module
+profits for this course
+profits for this technology
+profits for this class
+profits from the program
+profits from the module
+profits from the course
+profits from the technology
+profits from the class
+profits from this program
+profits from this module
+profits from this course
+profits from this technology
+profits from this class
 program outcome
 po
 outcome
@@ -250,6 +355,9 @@ result
 benefit
 gain
 profit
+outcomes
+benefits
+profits
 the program program outcome
 the program po
 the program outcome
@@ -257,6 +365,9 @@ the program result
 the program benefit
 the program gain
 the program profit
+the program outcomes
+the program benefits
+the program profits
 the module program outcome
 the module po
 the module outcome
@@ -264,6 +375,9 @@ the module result
 the module benefit
 the module gain
 the module profit
+the module outcomes
+the module benefits
+the module profits
 the course program outcome
 the course po
 the course outcome
@@ -271,6 +385,9 @@ the course result
 the course benefit
 the course gain
 the course profit
+the course outcomes
+the course benefits
+the course profits
 the technology program outcome
 the technology po
 the technology outcome
@@ -278,6 +395,9 @@ the technology result
 the technology benefit
 the technology gain
 the technology profit
+the technology outcomes
+the technology benefits
+the technology profits
 the class program outcome
 the class po
 the class outcome
@@ -285,6 +405,9 @@ the class result
 the class benefit
 the class gain
 the class profit
+the class outcomes
+the class benefits
+the class profits
 this program program outcome
 this program po
 this program outcome
@@ -292,6 +415,9 @@ this program result
 this program benefit
 this program gain
 this program profit
+this program outcomes
+this program benefits
+this program profits
 this module program outcome
 this module po
 this module outcome
@@ -299,6 +425,9 @@ this module result
 this module benefit
 this module gain
 this module profit
+this module outcomes
+this module benefits
+this module profits
 this course program outcome
 this course po
 this course outcome
@@ -306,6 +435,9 @@ this course result
 this course benefit
 this course gain
 this course profit
+this course outcomes
+this course benefits
+this course profits
 this technology program outcome
 this technology po
 this technology outcome
@@ -313,6 +445,9 @@ this technology result
 this technology benefit
 this technology gain
 this technology profit
+this technology outcomes
+this technology benefits
+this technology profits
 this class program outcome
 this class po
 this class outcome
@@ -320,3 +455,6 @@ this class result
 this class benefit
 this class gain
 this class profit
+this class outcomes
+this class benefits
+this class profits

@@ -1,5 +1,13 @@
 import re
 import pymysql.cursors
+import json, datetime
+
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, o):
+        if isinstance(o, datetime.datetime):
+            return o.isoformat()
+
+        return json.JSONEncoder.default(self, o)
 
 def extract_digits(text):
     return str(filter(str.isdigit, text))
@@ -33,3 +41,35 @@ def get_sequence_number(text):
         return 9
     else:
         return -1
+
+def map_words_to_digits_in_text(text):
+    words = text.split(" ")
+    mapped_words = []
+    for word in words:
+        mapped_words.append(map_word_to_digit(word))
+
+    return " ".join(mapped_words)
+
+def map_word_to_digit(word):
+    if word == 'zero' or word == 'zeroth':
+        return "0"
+    if word == 'one' or word == 'first':
+        return "1"
+    if word == 'two' or word == 'second':
+        return "2"
+    if word == 'three' or word == 'third':
+        return "3"
+    if word == 'four' or word == 'fourth':
+        return "4"
+    if word == 'five' or word == 'fifth':
+        return "5"
+    if word == 'six' or word == 'sixth':
+        return "6"
+    if word == 'seven' or word == 'seventh':
+        return "7"
+    if word == 'eight' or word == 'eighth':
+        return "8"
+    if word == 'nine' or word == 'ninth':
+        return "9"
+    return word
+

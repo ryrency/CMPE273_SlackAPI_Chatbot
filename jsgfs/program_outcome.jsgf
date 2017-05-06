@@ -2,7 +2,7 @@
 
 grammar slackbot;
 
-<outcome> = program outcome | po | outcome | result | benefit | gain | profit ;
+<outcome> = program outcome | po | outcome | result | benefit | gain | profit | outcomes | benefits | profits ;
 
 <course> = program | module | course | technology | class ;
 
