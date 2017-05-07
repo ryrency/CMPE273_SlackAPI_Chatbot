@@ -18,7 +18,7 @@ def get_contact(text):
     if not instructor:
         return "Sorry no instructor details found for " + course_section_name
     else:
-        return "You can reach" + instructor['name']  + "at " + instructor['email'] + ", " + str(instructor['office_phone'])
+        return "You can reach " + instructor['name']  + " at " + instructor['email'] + ", " + str(instructor['office_phone'])
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)

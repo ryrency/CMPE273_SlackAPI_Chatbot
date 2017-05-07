@@ -19,7 +19,7 @@ SLACK_BOT_TOKEN = 'xoxb-175807218647-HL9jcD2OAzBxgj5G0QBrwcfX'
 # constants
 AT_BOT = "<@" + BOT_ID + ">"
 
-# instantiate Slack & Twilio clients
+# instantiate slack
 slack_client = SlackClient(SLACK_BOT_TOKEN)
 
 #instantiate classifier
