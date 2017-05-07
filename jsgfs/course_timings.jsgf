@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | module | course | technology | class ;
+
+<name> = timings | hours | time | start time | end time | start | end | day | day of week | when;
+
+<of> = of | for ;
+
+public <command> = <course> <name> ;
+public <command> = <name> <of> <course> ;

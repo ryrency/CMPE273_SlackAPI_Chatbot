@@ -8,6 +8,7 @@ name of adviser
 name of faculty member
 name of faculty
 name of supervisor
+name of teaching
 email of professor
 email of prof
 email of instructor
@@ -18,6 +19,7 @@ email of adviser
 email of faculty member
 email of faculty
 email of supervisor
+email of teaching
 e-mail of professor
 e-mail of prof
 e-mail of instructor
@@ -28,6 +30,7 @@ e-mail of adviser
 e-mail of faculty member
 e-mail of faculty
 e-mail of supervisor
+e-mail of teaching
 mail_id of professor
 mail_id of prof
 mail_id of instructor
@@ -38,6 +41,7 @@ mail_id of adviser
 mail_id of faculty member
 mail_id of faculty
 mail_id of supervisor
+mail_id of teaching
 mail id of professor
 mail id of prof
 mail id of instructor
@@ -48,6 +52,7 @@ mail id of adviser
 mail id of faculty member
 mail id of faculty
 mail id of supervisor
+mail id of teaching
 email_id of professor
 email_id of prof
 email_id of instructor
@@ -58,6 +63,7 @@ email_id of adviser
 email_id of faculty member
 email_id of faculty
 email_id of supervisor
+email_id of teaching
 email id of professor
 email id of prof
 email id of instructor
@@ -68,6 +74,7 @@ email id of adviser
 email id of faculty member
 email id of faculty
 email id of supervisor
+email id of teaching
 email-id of professor
 email-id of prof
 email-id of instructor
@@ -78,6 +85,7 @@ email-id of adviser
 email-id of faculty member
 email-id of faculty
 email-id of supervisor
+email-id of teaching
 email-address of professor
 email-address of prof
 email-address of instructor
@@ -88,6 +96,7 @@ email-address of adviser
 email-address of faculty member
 email-address of faculty
 email-address of supervisor
+email-address of teaching
 email address of professor
 email address of prof
 email address of instructor
@@ -98,6 +107,7 @@ email address of adviser
 email address of faculty member
 email address of faculty
 email address of supervisor
+email address of teaching
 email_address of professor
 email_address of prof
 email_address of instructor
@@ -108,6 +118,7 @@ email_address of adviser
 email_address of faculty member
 email_address of faculty
 email_address of supervisor
+email_address of teaching
 office_hours of professor
 office_hours of prof
 office_hours of instructor
@@ -118,6 +129,7 @@ office_hours of adviser
 office_hours of faculty member
 office_hours of faculty
 office_hours of supervisor
+office_hours of teaching
 office hours of professor
 office hours of prof
 office hours of instructor
@@ -128,6 +140,7 @@ office hours of adviser
 office hours of faculty member
 office hours of faculty
 office hours of supervisor
+office hours of teaching
 working_hours of professor
 working_hours of prof
 working_hours of instructor
@@ -138,6 +151,7 @@ working_hours of adviser
 working_hours of faculty member
 working_hours of faculty
 working_hours of supervisor
+working_hours of teaching
 working hours of professor
 working hours of prof
 working hours of instructor
@@ -148,6 +162,7 @@ working hours of adviser
 working hours of faculty member
 working hours of faculty
 working hours of supervisor
+working hours of teaching
 advising_hours of professor
 advising_hours of prof
 advising_hours of instructor
@@ -158,6 +173,7 @@ advising_hours of adviser
 advising_hours of faculty member
 advising_hours of faculty
 advising_hours of supervisor
+advising_hours of teaching
 advising hours of professor
 advising hours of prof
 advising hours of instructor
@@ -168,6 +184,7 @@ advising hours of adviser
 advising hours of faculty member
 advising hours of faculty
 advising hours of supervisor
+advising hours of teaching
 office_timings of professor
 office_timings of prof
 office_timings of instructor
@@ -178,6 +195,7 @@ office_timings of adviser
 office_timings of faculty member
 office_timings of faculty
 office_timings of supervisor
+office_timings of teaching
 office timings of professor
 office timings of prof
 office timings of instructor
@@ -188,6 +206,7 @@ office timings of adviser
 office timings of faculty member
 office timings of faculty
 office timings of supervisor
+office timings of teaching
 advising_time of professor
 advising_time of prof
 advising_time of instructor
@@ -198,6 +217,7 @@ advising_time of adviser
 advising_time of faculty member
 advising_time of faculty
 advising_time of supervisor
+advising_time of teaching
 advising time of professor
 advising time of prof
 advising time of instructor
@@ -208,6 +228,7 @@ advising time of adviser
 advising time of faculty member
 advising time of faculty
 advising time of supervisor
+advising time of teaching
 advising_timings of professor
 advising_timings of prof
 advising_timings of instructor
@@ -218,6 +239,7 @@ advising_timings of adviser
 advising_timings of faculty member
 advising_timings of faculty
 advising_timings of supervisor
+advising_timings of teaching
 advising timings of professor
 advising timings of prof
 advising timings of instructor
@@ -228,6 +250,7 @@ advising timings of adviser
 advising timings of faculty member
 advising timings of faculty
 advising timings of supervisor
+advising timings of teaching
 meeting_timings of professor
 meeting_timings of prof
 meeting_timings of instructor
@@ -238,6 +261,7 @@ meeting_timings of adviser
 meeting_timings of faculty member
 meeting_timings of faculty
 meeting_timings of supervisor
+meeting_timings of teaching
 meeting timings of professor
 meeting timings of prof
 meeting timings of instructor
@@ -248,6 +272,7 @@ meeting timings of adviser
 meeting timings of faculty member
 meeting timings of faculty
 meeting timings of supervisor
+meeting timings of teaching
 meeting_hours of professor
 meeting_hours of prof
 meeting_hours of instructor
@@ -258,6 +283,7 @@ meeting_hours of adviser
 meeting_hours of faculty member
 meeting_hours of faculty
 meeting_hours of supervisor
+meeting_hours of teaching
 meeting hours of professor
 meeting hours of prof
 meeting hours of instructor
@@ -268,6 +294,7 @@ meeting hours of adviser
 meeting hours of faculty member
 meeting hours of faculty
 meeting hours of supervisor
+meeting hours of teaching
 office_location of professor
 office_location of prof
 office_location of instructor
@@ -278,6 +305,7 @@ office_location of adviser
 office_location of faculty member
 office_location of faculty
 office_location of supervisor
+office_location of teaching
 office location of professor
 office location of prof
 office location of instructor
@@ -288,6 +316,7 @@ office location of adviser
 office location of faculty member
 office location of faculty
 office location of supervisor
+office location of teaching
 office of professor
 office of prof
 office of instructor
@@ -298,6 +327,7 @@ office of adviser
 office of faculty member
 office of faculty
 office of supervisor
+office of teaching
 room_no of professor
 room_no of prof
 room_no of instructor
@@ -308,6 +338,7 @@ room_no of adviser
 room_no of faculty member
 room_no of faculty
 room_no of supervisor
+room_no of teaching
 room number of professor
 room number of prof
 room number of instructor
@@ -318,6 +349,7 @@ room number of adviser
 room number of faculty member
 room number of faculty
 room number of supervisor
+room number of teaching
 room no of professor
 room no of prof
 room no of instructor
@@ -328,6 +360,7 @@ room no of adviser
 room no of faculty member
 room no of faculty
 room no of supervisor
+room no of teaching
 work station of professor
 work station of prof
 work station of instructor
@@ -338,6 +371,7 @@ work station of adviser
 work station of faculty member
 work station of faculty
 work station of supervisor
+work station of teaching
 whereabouts of professor
 whereabouts of prof
 whereabouts of instructor
@@ -348,6 +382,7 @@ whereabouts of adviser
 whereabouts of faculty member
 whereabouts of faculty
 whereabouts of supervisor
+whereabouts of teaching
 desk of professor
 desk of prof
 desk of instructor
@@ -358,6 +393,18 @@ desk of adviser
 desk of faculty member
 desk of faculty
 desk of supervisor
+desk of teaching
+when of professor
+when of prof
+when of instructor
+when of teacher
+when of lecturer
+when of educator
+when of adviser
+when of faculty member
+when of faculty
+when of supervisor
+when of teaching
 professor name
 professor email
 professor e-mail
@@ -394,6 +441,7 @@ professor room no
 professor work station
 professor whereabouts
 professor desk
+professor when
 prof name
 prof email
 prof e-mail
@@ -430,6 +478,7 @@ prof room no
 prof work station
 prof whereabouts
 prof desk
+prof when
 instructor name
 instructor email
 instructor e-mail
@@ -466,6 +515,7 @@ instructor room no
 instructor work station
 instructor whereabouts
 instructor desk
+instructor when
 teacher name
 teacher email
 teacher e-mail
@@ -502,6 +552,7 @@ teacher room no
 teacher work station
 teacher whereabouts
 teacher desk
+teacher when
 lecturer name
 lecturer email
 lecturer e-mail
@@ -538,6 +589,7 @@ lecturer room no
 lecturer work station
 lecturer whereabouts
 lecturer desk
+lecturer when
 educator name
 educator email
 educator e-mail
@@ -574,6 +626,7 @@ educator room no
 educator work station
 educator whereabouts
 educator desk
+educator when
 adviser name
 adviser email
 adviser e-mail
@@ -610,6 +663,7 @@ adviser room no
 adviser work station
 adviser whereabouts
 adviser desk
+adviser when
 faculty member name
 faculty member email
 faculty member e-mail
@@ -646,6 +700,7 @@ faculty member room no
 faculty member work station
 faculty member whereabouts
 faculty member desk
+faculty member when
 faculty name
 faculty email
 faculty e-mail
@@ -682,6 +737,7 @@ faculty room no
 faculty work station
 faculty whereabouts
 faculty desk
+faculty when
 supervisor name
 supervisor email
 supervisor e-mail
@@ -718,3 +774,41 @@ supervisor room no
 supervisor work station
 supervisor whereabouts
 supervisor desk
+supervisor when
+teaching name
+teaching email
+teaching e-mail
+teaching mail_id
+teaching mail id
+teaching email_id
+teaching email id
+teaching email-id
+teaching email-address
+teaching email address
+teaching email_address
+teaching office_hours
+teaching office hours
+teaching working_hours
+teaching working hours
+teaching advising_hours
+teaching advising hours
+teaching office_timings
+teaching office timings
+teaching advising_time
+teaching advising time
+teaching advising_timings
+teaching advising timings
+teaching meeting_timings
+teaching meeting timings
+teaching meeting_hours
+teaching meeting hours
+teaching office_location
+teaching office location
+teaching office
+teaching room_no
+teaching room number
+teaching room no
+teaching work station
+teaching whereabouts
+teaching desk
+teaching when

@@ -1,17 +1,17 @@
-class goal
-class aim
-module intent
-course objective
-goals of class
-objective of course
-clo
 objectives of class
+program intent
+class purpose
+objectives of technology
+course goal
 module objective
-technology objectives
-objectives of
-purpose of class
+aim of program
+goals of
+purpose of course
+purpose of program
+clo
+program aim
 intent of module
-purpose of
-
-purpose of module
-objective of program
+aim of module
+goals of course
+purpose of class
+module goals

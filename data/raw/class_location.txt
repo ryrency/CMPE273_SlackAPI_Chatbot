@@ -1,0 +1,48 @@
+location of program
+location of course
+location of class
+physical location of program
+physical location of course
+physical location of class
+room_no of program
+room_no of course
+room_no of class
+room number of program
+room number of course
+room number of class
+room no of program
+room no of course
+room no of class
+building of program
+building of course
+building of class
+whereabouts of program
+whereabouts of course
+whereabouts of class
+where of program
+where of course
+where of class
+program location
+program physical location
+program room_no
+program room number
+program room no
+program building
+program whereabouts
+program where
+course location
+course physical location
+course room_no
+course room number
+course room no
+course building
+course whereabouts
+course where
+class location
+class physical location
+class room_no
+class room number
+class room no
+class building
+class whereabouts
+class where

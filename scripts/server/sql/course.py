@@ -1,6 +1,8 @@
 from utils import *
 import json
 
+_last_course_in_context = None
+
 def get_all_course_names():
     connection = get_mysql_connection()
 
@@ -22,6 +24,7 @@ def get_all_course_names():
     return []
 
 def get_course(text):
+    global _last_course_in_context
     connection = get_mysql_connection()
 
     try:
@@ -35,23 +38,14 @@ def get_course(text):
                 # extract digits from course name
                 course_number = extract_digits(course_name)
                 if course_number in text:
+                    _last_course_in_context = course
                     return course
+
+            # if not matching course found return last course from context
+            if _last_course_in_context:
+                return _last_course_in_context
+
     finally:
         connection.close()
 
     return None
-
-def get_course_details(text):
-    course = get_course(text)
-    if not course:
-        return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
-
-    return _get_course_detail(course, text)
-
-def _get_course_detail(course, text):
-    if 'title' in text or 'descri' in text:
-        return course['description']
-    elif 'prereq' in text or 'pre-req' in text:
-        return course['pre_requisites']
-    else:
-        return "Here are the course details: " + json.dumps(course)

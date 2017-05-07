@@ -4,3 +4,4 @@ slackclient
 numpy
 scipy
 scikit-learn
+pattern

@@ -2,7 +2,7 @@
 
 grammar slackbot;
 
-<date> = date | time | schedule | timeline;
+<date> = date | time | schedule | timeline | when | schedule;
 <finals> = final | final exam | finals | final exams;
 
 public <command> = <date> [of | for] <finals>;

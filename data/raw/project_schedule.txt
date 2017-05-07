@@ -58,6 +58,12 @@ time frame of project
 time frame of projects
 time frame for project
 time frame for projects
+when project
+when projects
+when of project
+when of projects
+when for project
+when for projects
 project deadline
 project due
 project due date
@@ -68,6 +74,7 @@ project finishing date
 project target date
 project end date
 project time frame
+project when
 projects deadline
 projects due
 projects due date
@@ -78,3 +85,4 @@ projects finishing date
 projects target date
 projects end date
 projects time frame
+projects when

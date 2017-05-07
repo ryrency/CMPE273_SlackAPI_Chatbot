@@ -64,6 +64,12 @@ schedule of assignment
 schedule of assignments
 schedule for assignment
 schedule for assignments
+when assignment
+when assignments
+when of assignment
+when of assignments
+when for assignment
+when for assignments
 assignment deadline
 assignment due
 assignment due date
@@ -75,6 +81,7 @@ assignment target date
 assignment end date
 assignment time frame
 assignment schedule
+assignment when
 assignments deadline
 assignments due
 assignments due date
@@ -86,3 +93,4 @@ assignments target date
 assignments end date
 assignments time frame
 assignments schedule
+assignments when

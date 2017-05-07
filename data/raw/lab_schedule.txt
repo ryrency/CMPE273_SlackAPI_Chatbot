@@ -88,6 +88,24 @@ time frame of laboratory
 time frame for lab
 time frame for labs
 time frame for laboratory
+when lab
+when labs
+when laboratory
+when of lab
+when of labs
+when of laboratory
+when for lab
+when for labs
+when for laboratory
+schedule lab
+schedule labs
+schedule laboratory
+schedule of lab
+schedule of labs
+schedule of laboratory
+schedule for lab
+schedule for labs
+schedule for laboratory
 lab deadline
 lab due
 lab due date
@@ -98,6 +116,8 @@ lab finishing date
 lab target date
 lab end date
 lab time frame
+lab when
+lab schedule
 labs deadline
 labs due
 labs due date
@@ -108,6 +128,8 @@ labs finishing date
 labs target date
 labs end date
 labs time frame
+labs when
+labs schedule
 laboratory deadline
 laboratory due
 laboratory due date
@@ -118,3 +140,5 @@ laboratory finishing date
 laboratory target date
 laboratory end date
 laboratory time frame
+laboratory when
+laboratory schedule

@@ -3,351 +3,51 @@ program outcome module
 program outcome course
 program outcome technology
 program outcome class
-program outcome of the program
-program outcome of the module
-program outcome of the course
-program outcome of the technology
-program outcome of the class
-program outcome of this program
-program outcome of this module
-program outcome of this course
-program outcome of this technology
-program outcome of this class
-program outcome for the program
-program outcome for the module
-program outcome for the course
-program outcome for the technology
-program outcome for the class
-program outcome for this program
-program outcome for this module
-program outcome for this course
-program outcome for this technology
-program outcome for this class
-program outcome from the program
-program outcome from the module
-program outcome from the course
-program outcome from the technology
-program outcome from the class
-program outcome from this program
-program outcome from this module
-program outcome from this course
-program outcome from this technology
-program outcome from this class
 po program
 po module
 po course
 po technology
 po class
-po of the program
-po of the module
-po of the course
-po of the technology
-po of the class
-po of this program
-po of this module
-po of this course
-po of this technology
-po of this class
-po for the program
-po for the module
-po for the course
-po for the technology
-po for the class
-po for this program
-po for this module
-po for this course
-po for this technology
-po for this class
-po from the program
-po from the module
-po from the course
-po from the technology
-po from the class
-po from this program
-po from this module
-po from this course
-po from this technology
-po from this class
 outcome program
 outcome module
 outcome course
 outcome technology
 outcome class
-outcome of the program
-outcome of the module
-outcome of the course
-outcome of the technology
-outcome of the class
-outcome of this program
-outcome of this module
-outcome of this course
-outcome of this technology
-outcome of this class
-outcome for the program
-outcome for the module
-outcome for the course
-outcome for the technology
-outcome for the class
-outcome for this program
-outcome for this module
-outcome for this course
-outcome for this technology
-outcome for this class
-outcome from the program
-outcome from the module
-outcome from the course
-outcome from the technology
-outcome from the class
-outcome from this program
-outcome from this module
-outcome from this course
-outcome from this technology
-outcome from this class
 result program
 result module
 result course
 result technology
 result class
-result of the program
-result of the module
-result of the course
-result of the technology
-result of the class
-result of this program
-result of this module
-result of this course
-result of this technology
-result of this class
-result for the program
-result for the module
-result for the course
-result for the technology
-result for the class
-result for this program
-result for this module
-result for this course
-result for this technology
-result for this class
-result from the program
-result from the module
-result from the course
-result from the technology
-result from the class
-result from this program
-result from this module
-result from this course
-result from this technology
-result from this class
 benefit program
 benefit module
 benefit course
 benefit technology
 benefit class
-benefit of the program
-benefit of the module
-benefit of the course
-benefit of the technology
-benefit of the class
-benefit of this program
-benefit of this module
-benefit of this course
-benefit of this technology
-benefit of this class
-benefit for the program
-benefit for the module
-benefit for the course
-benefit for the technology
-benefit for the class
-benefit for this program
-benefit for this module
-benefit for this course
-benefit for this technology
-benefit for this class
-benefit from the program
-benefit from the module
-benefit from the course
-benefit from the technology
-benefit from the class
-benefit from this program
-benefit from this module
-benefit from this course
-benefit from this technology
-benefit from this class
 gain program
 gain module
 gain course
 gain technology
 gain class
-gain of the program
-gain of the module
-gain of the course
-gain of the technology
-gain of the class
-gain of this program
-gain of this module
-gain of this course
-gain of this technology
-gain of this class
-gain for the program
-gain for the module
-gain for the course
-gain for the technology
-gain for the class
-gain for this program
-gain for this module
-gain for this course
-gain for this technology
-gain for this class
-gain from the program
-gain from the module
-gain from the course
-gain from the technology
-gain from the class
-gain from this program
-gain from this module
-gain from this course
-gain from this technology
-gain from this class
 profit program
 profit module
 profit course
 profit technology
 profit class
-profit of the program
-profit of the module
-profit of the course
-profit of the technology
-profit of the class
-profit of this program
-profit of this module
-profit of this course
-profit of this technology
-profit of this class
-profit for the program
-profit for the module
-profit for the course
-profit for the technology
-profit for the class
-profit for this program
-profit for this module
-profit for this course
-profit for this technology
-profit for this class
-profit from the program
-profit from the module
-profit from the course
-profit from the technology
-profit from the class
-profit from this program
-profit from this module
-profit from this course
-profit from this technology
-profit from this class
 outcomes program
 outcomes module
 outcomes course
 outcomes technology
 outcomes class
-outcomes of the program
-outcomes of the module
-outcomes of the course
-outcomes of the technology
-outcomes of the class
-outcomes of this program
-outcomes of this module
-outcomes of this course
-outcomes of this technology
-outcomes of this class
-outcomes for the program
-outcomes for the module
-outcomes for the course
-outcomes for the technology
-outcomes for the class
-outcomes for this program
-outcomes for this module
-outcomes for this course
-outcomes for this technology
-outcomes for this class
-outcomes from the program
-outcomes from the module
-outcomes from the course
-outcomes from the technology
-outcomes from the class
-outcomes from this program
-outcomes from this module
-outcomes from this course
-outcomes from this technology
-outcomes from this class
 benefits program
 benefits module
 benefits course
 benefits technology
 benefits class
-benefits of the program
-benefits of the module
-benefits of the course
-benefits of the technology
-benefits of the class
-benefits of this program
-benefits of this module
-benefits of this course
-benefits of this technology
-benefits of this class
-benefits for the program
-benefits for the module
-benefits for the course
-benefits for the technology
-benefits for the class
-benefits for this program
-benefits for this module
-benefits for this course
-benefits for this technology
-benefits for this class
-benefits from the program
-benefits from the module
-benefits from the course
-benefits from the technology
-benefits from the class
-benefits from this program
-benefits from this module
-benefits from this course
-benefits from this technology
-benefits from this class
 profits program
 profits module
 profits course
 profits technology
 profits class
-profits of the program
-profits of the module
-profits of the course
-profits of the technology
-profits of the class
-profits of this program
-profits of this module
-profits of this course
-profits of this technology
-profits of this class
-profits for the program
-profits for the module
-profits for the course
-profits for the technology
-profits for the class
-profits for this program
-profits for this module
-profits for this course
-profits for this technology
-profits for this class
-profits from the program
-profits from the module
-profits from the course
-profits from the technology
-profits from the class
-profits from this program
-profits from this module
-profits from this course
-profits from this technology
-profits from this class
 program outcome
 po
 outcome
@@ -358,103 +58,53 @@ profit
 outcomes
 benefits
 profits
-the program program outcome
-the program po
-the program outcome
-the program result
-the program benefit
-the program gain
-the program profit
-the program outcomes
-the program benefits
-the program profits
-the module program outcome
-the module po
-the module outcome
-the module result
-the module benefit
-the module gain
-the module profit
-the module outcomes
-the module benefits
-the module profits
-the course program outcome
-the course po
-the course outcome
-the course result
-the course benefit
-the course gain
-the course profit
-the course outcomes
-the course benefits
-the course profits
-the technology program outcome
-the technology po
-the technology outcome
-the technology result
-the technology benefit
-the technology gain
-the technology profit
-the technology outcomes
-the technology benefits
-the technology profits
-the class program outcome
-the class po
-the class outcome
-the class result
-the class benefit
-the class gain
-the class profit
-the class outcomes
-the class benefits
-the class profits
-this program program outcome
-this program po
-this program outcome
-this program result
-this program benefit
-this program gain
-this program profit
-this program outcomes
-this program benefits
-this program profits
-this module program outcome
-this module po
-this module outcome
-this module result
-this module benefit
-this module gain
-this module profit
-this module outcomes
-this module benefits
-this module profits
-this course program outcome
-this course po
-this course outcome
-this course result
-this course benefit
-this course gain
-this course profit
-this course outcomes
-this course benefits
-this course profits
-this technology program outcome
-this technology po
-this technology outcome
-this technology result
-this technology benefit
-this technology gain
-this technology profit
-this technology outcomes
-this technology benefits
-this technology profits
-this class program outcome
-this class po
-this class outcome
-this class result
-this class benefit
-this class gain
-this class profit
-this class outcomes
-this class benefits
-this class profits
+program program outcome
+program po
+program outcome
+program result
+program benefit
+program gain
+program profit
+program outcomes
+program benefits
+program profits
+module program outcome
+module po
+module outcome
+module result
+module benefit
+module gain
+module profit
+module outcomes
+module benefits
+module profits
+course program outcome
+course po
+course outcome
+course result
+course benefit
+course gain
+course profit
+course outcomes
+course benefits
+course profits
+technology program outcome
+technology po
+technology outcome
+technology result
+technology benefit
+technology gain
+technology profit
+technology outcomes
+technology benefits
+technology profits
+class program outcome
+class po
+class outcome
+class result
+class benefit
+class gain
+class profit
+class outcomes
+class benefits
+class profits

@@ -1,0 +1,12 @@
+#JSGF V1.0;
+
+grammar slackbot;
+
+<course> = program | module | course | technology | class ;
+
+<name> = name | description | brief | explanation | mandatory | prerequisites | prerequisite | pre-requisites | prereq | essentials | essential | preconditions | precondition | condition | terms | requisite | requisites | requirements ;
+
+<of> = of | for ;
+public <command> = <course> <name> ;
+
+public <command> = <name> <of> <course> ;

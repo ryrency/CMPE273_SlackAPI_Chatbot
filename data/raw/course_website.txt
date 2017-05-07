@@ -1,0 +1,90 @@
+program web link
+program site
+program web-link
+program url
+program website
+program website url
+module web link
+module site
+module web-link
+module url
+module website
+module website url
+course web link
+course site
+course web-link
+course url
+course website
+course website url
+technology web link
+technology site
+technology web-link
+technology url
+technology website
+technology website url
+class web link
+class site
+class web-link
+class url
+class website
+class website url
+web link of program
+web link of module
+web link of course
+web link of technology
+web link of class
+web link for program
+web link for module
+web link for course
+web link for technology
+web link for class
+site of program
+site of module
+site of course
+site of technology
+site of class
+site for program
+site for module
+site for course
+site for technology
+site for class
+web-link of program
+web-link of module
+web-link of course
+web-link of technology
+web-link of class
+web-link for program
+web-link for module
+web-link for course
+web-link for technology
+web-link for class
+url of program
+url of module
+url of course
+url of technology
+url of class
+url for program
+url for module
+url for course
+url for technology
+url for class
+website of program
+website of module
+website of course
+website of technology
+website of class
+website for program
+website for module
+website for course
+website for technology
+website for class
+website url of program
+website url of module
+website url of course
+website url of technology
+website url of class
+website url for program
+website url for module
+website url for course
+website url for technology
+website url for class

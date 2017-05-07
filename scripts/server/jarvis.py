@@ -7,7 +7,7 @@ sys.path.append('./scripts/server/sql')
 from classifier import Classifier
 import utils, instructor, course, program_outcomes, learning_objectives, lab_schedule, \
     assignment_schedule, project_schedule, mid_term_schedule, final_exam_schedule, \
-    course_grading
+    course_grading, course_name, class_location, course_prereq, course_timings, course_website
 
 
 # jarvis's ID as an environment variable
@@ -31,7 +31,15 @@ def _get_answer(text):
     if label == 'instructor':
         return instructor.get_instructor_details(text)
     elif label == 'course_name':
-        return course.get_course_details(text)
+        return course_name.get_description(text)
+    elif label == 'course_prereq':
+        return course_prereq.get_prereq(text)
+    elif label == 'course_timings':
+        return course_timings.get_timings(text)
+    elif label == 'course_website':
+        return course_website.get_url(text)
+    elif label == 'class_location':
+        return class_location.get_location(text)
     elif label == 'course_learning_objectives':
         return learning_objectives.get_learning_objectives(text)
     elif label == 'program_outcome':
@@ -49,7 +57,7 @@ def _get_answer(text):
     elif label == 'course_grading':
         return course_grading.get_course_grading_details(text)
     else:
-        return "Sorry I don't understand your question"
+        return label
 
 
 def handle_command(command, channel):
@@ -68,8 +76,7 @@ def parse_slack_output(slack_rtm_output):
         for output in output_list:
             if output and 'text' in output and AT_BOT in output['text']:
                 # return text after the @ mention, whitespace removed
-                return output['text'].split(AT_BOT)[1].strip().lower(), \
-                       output['channel']
+                return output['text'], output['channel']
     return None, None
 
 

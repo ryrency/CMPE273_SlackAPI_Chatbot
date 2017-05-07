@@ -8,7 +8,6 @@ grammar slackbot;
 
 <of> = of | for | from ;
 
-<the> = the | this ;
-public <command> = <outcome> [<of> <the>] <course> ;
+public <command> = <outcome> <course> ;
 
-public <command> = [<the> <course>] <outcome> ;
+public <command> = [<course>] <outcome> ;

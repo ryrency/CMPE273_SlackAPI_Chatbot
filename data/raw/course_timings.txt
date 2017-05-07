@@ -1,0 +1,150 @@
+program timings
+program hours
+program time
+program start time
+program end time
+program start
+program end
+program day
+program day of week
+program when
+module timings
+module hours
+module time
+module start time
+module end time
+module start
+module end
+module day
+module day of week
+module when
+course timings
+course hours
+course time
+course start time
+course end time
+course start
+course end
+course day
+course day of week
+course when
+technology timings
+technology hours
+technology time
+technology start time
+technology end time
+technology start
+technology end
+technology day
+technology day of week
+technology when
+class timings
+class hours
+class time
+class start time
+class end time
+class start
+class end
+class day
+class day of week
+class when
+timings of program
+timings of module
+timings of course
+timings of technology
+timings of class
+timings for program
+timings for module
+timings for course
+timings for technology
+timings for class
+hours of program
+hours of module
+hours of course
+hours of technology
+hours of class
+hours for program
+hours for module
+hours for course
+hours for technology
+hours for class
+time of program
+time of module
+time of course
+time of technology
+time of class
+time for program
+time for module
+time for course
+time for technology
+time for class
+start time of program
+start time of module
+start time of course
+start time of technology
+start time of class
+start time for program
+start time for module
+start time for course
+start time for technology
+start time for class
+end time of program
+end time of module
+end time of course
+end time of technology
+end time of class
+end time for program
+end time for module
+end time for course
+end time for technology
+end time for class
+start of program
+start of module
+start of course
+start of technology
+start of class
+start for program
+start for module
+start for course
+start for technology
+start for class
+end of program
+end of module
+end of course
+end of technology
+end of class
+end for program
+end for module
+end for course
+end for technology
+end for class
+day of program
+day of module
+day of course
+day of technology
+day of class
+day for program
+day for module
+day for course
+day for technology
+day for class
+day of week of program
+day of week of module
+day of week of course
+day of week of technology
+day of week of class
+day of week for program
+day of week for module
+day of week for course
+day of week for technology
+day of week for class
+when of program
+when of module
+when of course
+when of technology
+when of class
+when for program
+when for module
+when for course
+when for technology
+when for class
