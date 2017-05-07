@@ -4,10 +4,12 @@ grammar slackbot;
 
 <university> = university | school | course | program ;
 
-<policy> = policy | protocol | guidelines  | terms and conditions | rule ;
+<policy> = policy | protocol | guidelines  | terms and conditions | rule;
 
 <of> = of | for ;
 
-public <command> = <policy> [<of>] <university> ;
+<what> = what | what's | what is | what are;
 
-public <command> = <university> <policy> ;
+public <command> = [<what>] <policy> [<of>] <university> ;
+
+public <command> = [<what>] <university> <policy> ;

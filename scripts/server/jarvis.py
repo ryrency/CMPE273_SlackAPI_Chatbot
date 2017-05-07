@@ -5,9 +5,11 @@ import sys
 sys.path.append('./scripts/classifier')
 sys.path.append('./scripts/server/sql')
 from classifier import Classifier
-import utils, instructor, course, program_outcomes, learning_objectives, lab_schedule, \
+import utils, course, course_section, program_outcomes, learning_objectives, lab_schedule, \
     assignment_schedule, project_schedule, mid_term_schedule, final_exam_schedule, \
-    course_grading, course_name, class_location, course_prereq, course_timings, course_website
+    course_grading, course_name, class_location, course_prereq, course_timings, course_website, \
+    instructor_contact, instructor_email, instructor_name, instructor_office_hours, instructor_office_location, \
+    instructor_phone
 
 
 # jarvis's ID as an environment variable
@@ -23,13 +25,28 @@ slack_client = SlackClient(SLACK_BOT_TOKEN)
 #instantiate classifier
 txt_clf = Classifier()
 
+def reset():
+    course.last_course_in_context = None
+    course_section.last_course_section_in_context = None
+
+
 def _get_answer(text):
     text = text.lower()
     text = utils.map_words_to_digits_in_text(text)
     label = txt_clf.classify(text)
 
-    if label == 'instructor':
-        return instructor.get_instructor_details(text)
+    if label == 'instructor_contact':
+        return instructor_contact.get_contact(text)
+    if label == 'instructor_email':
+        return instructor_email.get_email(text)
+    if label == 'instructor_name':
+        return instructor_name.get_name(text)
+    if label == 'instructor_office_hours':
+        return instructor_office_hours.get_hours(text)
+    if label == 'instructor_office_location':
+        return instructor_office_location.get_location(text)
+    if label == 'instructor_phone':
+        return instructor_phone.get_phone(text)
     elif label == 'course_name':
         return course_name.get_description(text)
     elif label == 'course_prereq':
@@ -76,7 +93,8 @@ def parse_slack_output(slack_rtm_output):
         for output in output_list:
             if output and 'text' in output and AT_BOT in output['text']:
                 # return text after the @ mention, whitespace removed
-                return output['text'], output['channel']
+                return output['text'].split(AT_BOT)[1].strip(), \
+                       output['channel']
     return None, None
 
 
@@ -87,7 +105,10 @@ if __name__ == "__main__":
         while True:
             command, channel = parse_slack_output(slack_client.rtm_read())
             if command and channel:
-                handle_command(command, channel)
+                if command == 'reset':
+                    reset()
+                else:
+                    handle_command(command, channel)
             time.sleep(READ_WEBSOCKET_DELAY)
     else:
         print("Connection failed. Invalid Slack token or bot ID?")

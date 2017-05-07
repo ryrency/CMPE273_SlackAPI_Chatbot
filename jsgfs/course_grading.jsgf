@@ -2,14 +2,16 @@
 
 grammar slackbot;
 
-<task> = pop quizzes | quizzes | quiz | lab | assignment | lab | assignments | mid-term | exam | final-exam | mid term | final exam | class project | class_project | final project | project ;
+<task> = pop quizzes | quizzes | quiz | lab | assignment | lab | assignments | mid-term | exam | final-exam | mid term | final exam | class project | class_project | final project | project | course | class ;
 
 <grading> = grading | grading system  | grading criteria | weightage | grading policy | grading weightage ;
 
 <of> = of | for ;
 
-public <command> = <task> <grading> ;
+<what> = what | what's | what is;
 
-public <command> = <grading> ;
+public <command> = [<what>] <task> <grading> ;
 
-public <command> = <grading> [<of>] <task> ;
+public <command> = [<what>] <grading> ;
+
+public <command> = [<what>] <grading> [<of>] <task> ;

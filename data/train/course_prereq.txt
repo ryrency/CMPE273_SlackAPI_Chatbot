@@ -1,216 +1,432 @@
-description of program
-brief for module
-precondition of course
-essential of program
-essential of course
-class explanation
-prerequisites of module
-mandatory of module
-course explanation
-course prereq
-terms of technology
-pre-requisites of course
-prerequisite for course
-prerequisites for class
-name for program
-brief of class
-course terms
-requisite for module
-brief for class
-module requisite
-condition for class
-explanation for course
-program requirements
-requirements of class
-description for program
-program brief
-preconditions for program
-essential of module
-class essential
-course essentials
-module description
-requisites of technology
-class brief
-explanation of course
+what's requirements for class
+what is terms of course
 course pre-requisites
-preconditions for course
-mandatory of program
-description of module
-class preconditions
-preconditions for class
-prerequisites for module
-name of course
-class mandatory
-requisites for class
-brief for program
-explanation for program
-program prereq
-program requisites
-description for class
-program condition
-description for module
-brief for course
-essential for module
-module preconditions
-program pre-requisites
-name for module
-brief of course
-prerequisites for program
-course mandatory
-essential of class
-technology requirements
-module precondition
-course essential
-requisite of course
-class prereq
-terms of module
-pre-requisites of program
-class prerequisite
-prerequisite of program
-technology essential
-prereq for technology
-module terms
-requisites for module
-precondition for course
-prerequisite for technology
-class pre-requisites
-requisite for program
-brief of module
-prereq of technology
-course precondition
-requirements for class
-technology preconditions
-class requisites
-requisites of class
-terms for technology
-essentials of course
-class requirements
-prereq of course
-precondition of class
-technology brief
-mandatory for technology
-technology prerequisites
-module name
-explanation for class
-class prerequisites
-technology precondition
-terms for course
-course brief
-essential for class
-prereq for module
-name of program
-technology requisite
-course description
-requisite of program
-prereq of program
-course prerequisite
-prerequisite of class
-requirements of technology
-name for technology
-precondition for program
-name of module
-description for course
-requirements of course
-technology prereq
-course requisites
-prereq for program
-
-class condition
-preconditions of program
-class description
+what's precondition of course
 prereq for class
-mandatory for course
-explanation for module
-essentials for module
+what's essentials for program
+what is course prerequisite
+what's condition of course
+what course terms
+what is condition of course
+what's prerequisites for program
+what essential of class
+what's prereq for program
+what is program requirements
+requisite for class
+what is preconditions for program
+program precondition
+what is course required
+what is class prerequisite
+what class requisite
+what course requirements
+what is mandatory for class
+preconditions for class
+what's terms for program
+essential for class
+what's terms of course
+requirements for program
+what prereq of class
 requisites of program
-essentials for course
-pre-requisites for class
-preconditions of module
-name of class
-technology name
-pre-requisites for module
-module essential
-description for technology
-module requisites
-program description
-mandatory of course
-precondition of program
-preconditions of course
-essentials for class
-class requisite
-technology explanation
-explanation of module
-description of technology
-condition of technology
-technology terms
-requisites of course
-module brief
-technology prerequisite
-class essentials
-mandatory of technology
-class name
-preconditions of class
-essentials of technology
-essentials for technology
-condition of course
-description of course
-requirements of module
-prerequisite for program
-prerequisite of module
-program name
+prereq of course
+what requirements for program
+what essential for course
+what precondition for course
+what is course mandatory
+what is precondition of class
+requisite of program
+class condition
+program prereq
+what is prerequisite of program
+what's terms for class
+what's mandatory of program
+what is course pre-requisites
+what course pre-requisites
+what program condition
+course condition
+what is prerequisite for program
+what's preconditions of course
+what's prerequisite of program
+what terms of class
+what requirements of class
+what's prerequisites of class
+what is required for program
+course terms
+requirements for class
+what is class precondition
+what prerequisite for course
+what mandatory for program
+what's class pre-requisites
+what's course prerequisite
+what program preconditions
+what prereq of course
+what mandatory for course
+what essential of course
+what is precondition of program
+what is preconditions for class
+what is course condition
+essential of program
+prerequisites for class
+what's essential of program
+what precondition of program
+what's program requisites
+what's class prerequisites
+condition for class
+what pre-requisites for course
 program mandatory
-prereq of class
-preconditions of technology
-module mandatory
-requirements of program
-prereq of module
-explanation of class
-course name
-condition for program
-program prerequisites
-course preconditions
+what's requisite for course
+what is essential of course
+what's course prerequisites
+required of class
+course required
+what mandatory of program
+what's terms of class
 precondition for class
-terms for class
-program explanation
-module condition
-explanation for technology
-technology essentials
-technology condition
+what class requisites
+what's class requisite
+what course required
+pre-requisites for class
+what course essentials
+what's program essentials
+program requisites
+what's requisites for class
+what is prerequisite for class
+requisite of class
+what's terms of program
+what's prereq of course
+precondition for course
+what requisites for course
+essentials of program
+terms of course
+what's essential for program
 essentials of class
-terms for module
-technology description
-requisites for program
-prerequisites of course
-pre-requisites for technology
-essential for technology
-prerequisite of technology
-requisite for technology
-precondition for module
-prerequisites of technology
-course requirements
-requisites for technology
-brief of technology
-module requirements
-mandatory for class
+what is condition for class
+what is requisite for program
+what's course precondition
+what's program condition
+essentials for class
+what's requisites of class
+what program requisites
 condition for course
-terms for program
-program essential
-pre-requisites of technology
-explanation of technology
+program requirements
+what is requirements for course
+what is requisites of class
+requisite for program
+what's requirements for course
+what is terms for class
+what requisite of class
+what program required
+requisites for program
+what is course prereq
+what class pre-requisites
+what preconditions for class
+what prerequisite for program
+requirements of class
+what is prerequisites of class
+what is preconditions of class
+what condition for class
+what's requisite of course
+program prerequisite
+what class essential
+what is terms of class
+what essentials of program
+what's mandatory of class
 terms of class
-essential for course
-module pre-requisites
-preconditions for module
-name for class
-technology requisites
-name of technology
-mandatory for program
-condition for module
-technology pre-requisites
-requirements for module
-module prereq
-condition of program
-preconditions for technology
-requisites for course
-requisite of module
+what is pre-requisites for program
+class terms
+what program prerequisites
+what's class essentials
+terms for class
+what's program terms
+what is prerequisites of program
+what requirements of program
+what condition of course
+what's preconditions for program
+preconditions of course
+what is pre-requisites of course
+what class prerequisites
+what is class requisites
+required for course
+what class required
+what condition of class
+program essential
+mandatory of course
+what program precondition
+what's requisite for program
+what is prerequisite of class
+what's essential for class
 program preconditions
+what's prerequisites for class
+what is essentials of program
+what's precondition for class
+condition of course
+what course prerequisite
+what requisites for program
+what's prerequisite of class
+prereq for program
+pre-requisites for program
+what mandatory of course
+what's required of course
+requisites of class
+what is requisites for program
+what is mandatory of course
+what's preconditions for class
+what is requisite for course
+prereq of class
+class required
+course prerequisite
+what class condition
+what is prereq for program
+what is class mandatory
+what is class requisite
+prerequisite for course
+class essential
+what is prereq for class
+what's requirements of class
+what is precondition of course
+what is requisite of class
+what's class requisites
+what's requisites of program
+what's requirements for program
+what is requirements for program
+what's class precondition
+what is program prereq
+what's course prereq
+what's prereq for class
+preconditions for program
+what's class essential
+what required of program
+requisites for class
+what is required of course
+what pre-requisites for class
+what preconditions of class
+essential for course
+what is pre-requisites for course
+what is essentials for program
+what requisites for class
+what is required of program
+what's requisites for program
+what class precondition
+what terms for class
+what terms of course
+what is class terms
+class pre-requisites
+what essentials for course
+what is terms for course
+what is program required
+what essentials for class
+terms for course
+prerequisite of program
+what is required for course
+what is requisite for class
+what's essential of class
+what's terms for course
+what is mandatory of class
+what program mandatory
+what is requirements for class
+what is precondition for program
+what's program requirements
+what course prerequisites
+course prereq
+mandatory of program
+what's course preconditions
+what class essentials
+what is class prerequisites
+what's course mandatory
+what precondition for class
+what terms of program
+what condition for program
+what is mandatory for program
+terms for program
+what's prerequisite of course
+course prerequisites
+what's essentials of class
+what's essentials of course
+program requisite
+what's program prerequisites
+what class mandatory
+course requirements
+requirements of program
+what's preconditions of program
+what precondition of class
+what is requisites of course
+what's prereq for course
+what's class required
+what required for program
+what is class prereq
+what requirements for class
+what prerequisite of program
+what's program precondition
+what's precondition for program
+what's requirements of course
+pre-requisites of course
+what prereq for class
+what is essential for program
+what is essential for class
+what's requirements of program
+what course mandatory
+preconditions of class
+what's condition for course
+what's class prerequisite
+mandatory for class
+what essential for class
+program pre-requisites
+what's course pre-requisites
+what preconditions for program
+what's class terms
+what course preconditions
+what prerequisites of course
+what is requisites for course
+what's course essentials
+prerequisites of program
+what is pre-requisites of program
+what is program pre-requisites
+requisites for course
+what's class condition
+what's program pre-requisites
+what terms for program
+what is terms for program
+what's class preconditions
+what course precondition
+what class prereq
+precondition of class
+what requisite for course
+what is requisites for class
+course precondition
+what prerequisites for program
+what essentials of course
+what's mandatory of course
+what is requirements of course
+what's pre-requisites of class
+what prerequisites for course
+what prerequisites of program
+mandatory for course
+prerequisite for program
+what is essentials for course
+what's pre-requisites for program
+program terms
+what's mandatory for class
+what is requisite of course
+pre-requisites of program
+what is course essential
+requisites of course
+program condition
+what is class requirements
+pre-requisites for course
+what's course requisite
+what pre-requisites of program
+what condition of program
+what is pre-requisites of class
+required of course
+what is required of class
+what is program preconditions
+what's essentials of program
+what requisites of program
+what is course precondition
+what is precondition for class
+what's essentials for course
+what is prerequisites of course
+what's class mandatory
+prerequisite of course
+what is prerequisite for course
+what's course essential
+class precondition
+what course condition
+condition of class
+what is program terms
+what is essentials of course
+what's program prerequisite
+what program requisite
+what is essentials of class
+what prerequisites of class
+what requirements for course
+what prereq of program
+program required
+what's preconditions for course
+what's program preconditions
+what prerequisite of course
+what's course terms
+what is program condition
+what is required for class
+what's prereq of program
+course essential
+what is class essential
+mandatory of class
+what's course required
+what is course essentials
+what is preconditions of program
+what required of course
+what class terms
+what's essential for course
+what program prereq
+mandatory for program
+what program terms
+what's program mandatory
+prerequisites of class
+essential of course
+what is course requisites
+what course prereq
+requirements for course
+essentials for program
+
+what preconditions of program
+what's condition for class
+what requisites of class
+required of program
+requirements of course
+what mandatory for class
+what precondition for program
+required for program
+what is class preconditions
+class preconditions
+requisite for course
+condition for program
+what's prerequisites for course
+what is program essential
+what mandatory of class
+what is course requirements
+class requisite
+what is essential of class
+what course requisites
+what's requisites of course
+what's preconditions of class
+preconditions for course
+what essential of program
+what is course prerequisites
+what's prerequisite for program
+what's course requisites
+essentials for course
+what is prereq of class
+what pre-requisites for program
+what preconditions for course
+prerequisite for class
+prerequisites for course
+what is precondition for course
+what is prereq for course
+what required for course
+what requisite of program
+what requisites of course
+what essentials for program
+what is prereq of course
+what is program essentials
+what is course requisite
+what's essentials for class
+precondition of program
+what pre-requisites of class
+prereq for course
+what is prerequisite of course
+what prereq for program
+what's course requirements
+what's required of class
+what's program required
+what is terms of program
+what program requirements
+condition of program
+what's required for class
+what's pre-requisites of course
+what is prerequisites for program
+what terms for course
+preconditions of program
+what is requirements of class
+class mandatory
+what program pre-requisites
+what is condition for course

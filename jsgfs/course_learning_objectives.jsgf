@@ -2,7 +2,7 @@
 
 grammar blender;
 
-<objective> = objective | goal | goals | purpose | intent | aim | objectives ;
+<objective> = objective | goal | goals | purpose | intent | aim | objectives;
 
 <clo> = clo | class learning objective ;
 
@@ -10,10 +10,12 @@ grammar blender;
 
 <of> = of ;
 
-public <command> = <objective> <of> [<course>] ;
+<what> = what | what's | what is;
 
-public <command> = <course> <objective> ;
 
-public <command> = <clo> ;
-public <command> = <clo> ;
-public <command> = <clo> ;
+public <command> = [<what>] <objective> <of> [<course>] ;
+
+public <command> = [<what>] <course> <objective> ;
+
+public <command> = [<what>] <clo> ;
+public <command> = [<what>] <clo> ;

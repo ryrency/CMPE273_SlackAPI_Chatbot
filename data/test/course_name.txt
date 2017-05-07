@@ -1,22 +1,58 @@
-module name
-program brief
-summary of class
-course title
-title of technology
-class detail
-detail for technology
-summary of technology
-name for class
-module detail
-course explanation
-course description
+what is course summary
+what description for course
+what's detail for course
+what description of course
+what is course name
+what is name of program
+what is description of class
+what is program brief
+what class description
+what summary for course
+course summary
+what's detail for program
+what class detail
+detail of course
+what is title of program
+what is class brief
+what program detail
+what's title of program
+what detail for course
+what's name of class
+summary for program
+what's class detail
+what program description
+what is program name
+brief of program
+what name for course
+what's name of course
+detail for program
+what's explanation of class
 
-detail for class
-explanation for program
-explanation of class
-class explanation
-module explanation
-description of program
+what is name of program
+what's name for course
+what's title for course
+explanation for course
+explanation for class
+what is description for program
+what detail of course
+what class summary
+what is detail of class
+title for class
+what title of class
+what's program description
+what is title of class
+what name for program
+name for course
+what is course explanation
+what name of program
+what title of course
+what program summary
+what is class title
+summary of course
+description of class
 detail of class
-brief for technology
-brief of course
+what is brief for program
+what is explanation for program
+what brief of course
+name of course
+what is program explanation

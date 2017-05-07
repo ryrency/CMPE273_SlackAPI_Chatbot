@@ -2,11 +2,13 @@
 
 grammar slackbot;
 
-<course> = program | module | course | technology | class ;
+<course> = program | course | class ;
 
-<name> = timings | hours | time | start time | end time | start | end | day | day of week | when;
+<timings> = timings | hours | hour | time | start time | end time | start | end | day | day of week | when;
 
 <of> = of | for ;
 
-public <command> = <course> <name> ;
-public <command> = <name> <of> <course> ;
+<what> = what | what's | what is | what are;
+
+public <command> = [<what>] <course> <timings> ;
+public <command> = [<what>] <timings> <of> <course> ;

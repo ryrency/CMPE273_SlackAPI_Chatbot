@@ -19,9 +19,48 @@ building of class
 whereabouts of program
 whereabouts of course
 whereabouts of class
-where of program
-where of course
-where of class
+where location of program
+where location of course
+where location of class
+where physical location of program
+where physical location of course
+where physical location of class
+where room_no of program
+where room_no of course
+where room_no of class
+where room number of program
+where room number of course
+where room number of class
+where room no of program
+where room no of course
+where room no of class
+where building of program
+where building of course
+where building of class
+where whereabouts of program
+where whereabouts of course
+where whereabouts of class
+where is location of program
+where is location of course
+where is location of class
+where is physical location of program
+where is physical location of course
+where is physical location of class
+where is room_no of program
+where is room_no of course
+where is room_no of class
+where is room number of program
+where is room number of course
+where is room number of class
+where is room no of program
+where is room no of course
+where is room no of class
+where is building of program
+where is building of course
+where is building of class
+where is whereabouts of program
+where is whereabouts of course
+where is whereabouts of class
 program location
 program physical location
 program room_no
@@ -29,7 +68,6 @@ program room number
 program room no
 program building
 program whereabouts
-program where
 course location
 course physical location
 course room_no
@@ -37,7 +75,6 @@ course room number
 course room no
 course building
 course whereabouts
-course where
 class location
 class physical location
 class room_no
@@ -45,4 +82,45 @@ class room number
 class room no
 class building
 class whereabouts
-class where
+where program location
+where program physical location
+where program room_no
+where program room number
+where program room no
+where program building
+where program whereabouts
+where course location
+where course physical location
+where course room_no
+where course room number
+where course room no
+where course building
+where course whereabouts
+where class location
+where class physical location
+where class room_no
+where class room number
+where class room no
+where class building
+where class whereabouts
+where is program location
+where is program physical location
+where is program room_no
+where is program room number
+where is program room no
+where is program building
+where is program whereabouts
+where is course location
+where is course physical location
+where is course room_no
+where is course room number
+where is course room no
+where is course building
+where is course whereabouts
+where is class location
+where is class physical location
+where is class room_no
+where is class room number
+where is class room no
+where is class building
+where is class whereabouts

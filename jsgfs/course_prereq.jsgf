@@ -2,11 +2,14 @@
 
 grammar slackbot;
 
-<course> = program | module | course | technology | class ;
+<course> = program | course | class ;
 
-<name> = name | description | brief | explanation | mandatory | prerequisites | prerequisite | pre-requisites | prereq | essentials | essential | preconditions | precondition | condition | terms | requisite | requisites | requirements ;
+<name> = mandatory | prerequisites | prerequisite | pre-requisites | prereq | essentials | essential | preconditions | precondition | condition | terms | requisite | requisites | requirements | required ;
 
 <of> = of | for ;
-public <command> = <course> <name> ;
 
-public <command> = <name> <of> <course> ;
+<what> = what | what's | what is;
+
+public <command> = [<what>] <course> <name> ;
+
+public <command> = [<what>] <name> <of> <course> ;

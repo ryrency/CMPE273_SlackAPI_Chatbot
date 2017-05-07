@@ -1,55 +1,109 @@
-name for course
-prerequisite for class
-essential of technology
-requirements for course
-terms of program
-prerequisites of program
-program terms
-explanation of program
-requisite for class
-module prerequisite
-essentials of program
-technology mandatory
-prerequisite for module
-pre-requisites of class
-requirements for program
-mandatory of class
-terms of course
-prerequisites of class
-essential for program
-pre-requisites for course
-requisites of module
-program prerequisite
-requisite of technology
-prerequisites for course
-requisite of class
-pre-requisites of module
-class precondition
-essentials of module
+essentials of course
+what's pre-requisites for course
+what's requisite of class
 program essentials
-pre-requisites for program
-prerequisite of course
-precondition of module
-module essentials
-class terms
-precondition for technology
-requisite for course
-condition for technology
-description of class
-essentials for program
-program requisite
-program precondition
-condition of module
-brief of program
-prereq for course
-condition of class
-prerequisites for technology
+what's class requirements
+what is program requisites
+what prerequisites for class
+what is prerequisites for class
+what prerequisite for class
+pre-requisites of class
+what's required for program
+what is program prerequisites
+what program essentials
+what program prerequisite
+class essentials
+what's mandatory for program
+essential of class
+what's prerequisites of program
+what prerequisite of class
+what's prerequisites of course
+what is program requisite
+course requisites
+what is prereq of program
+course mandatory
+what pre-requisites of course
+what's requisites for course
+what is preconditions of course
+what is condition of class
+what is essential of program
+what program essential
+what is program mandatory
+what's pre-requisites for class
+essential for program
+what precondition of course
+what requisite of course
+what's requisite for class
+what is condition of program
+required for class
+what's program prereq
+prerequisite of class
+what is program precondition
+what is class condition
+what's condition of class
+what's prerequisite for class
+what's requisite of program
+what's program essential
+class requirements
+what prereq for course
+what is program prerequisite
+what is mandatory of program
+what is condition for program
+prerequisites of course
+what required of class
+what class preconditions
+what's class prereq
+what class prerequisite
+what's program requisite
+what essentials of class
+prerequisites for program
+what's essential of course
+what requisite for program
+what's prerequisite for course
+what essential for program
+what class requirements
+what requirements of course
+what's prereq of class
+what required for class
+course preconditions
+what requisite for class
+what is class required
 course requisite
-requirements for technology
-mandatory for module
-precondition of technology
-module explanation
-course prerequisites
-brief for technology
-course condition
-module prerequisites
+what is requisites of program
+class prereq
+what's mandatory for course
+what is course preconditions
+course essentials
+requisite of course
+class requisites
+what's required for course
+what is class essentials
+what course essential
+class prerequisites
+what's condition of program
+what's course condition
+what is essentials for class
+what is requisite of program
+program prerequisites
+what's required of program
+prereq of program
+what is pre-requisites for class
+what is essential for course
+what's pre-requisites of program
+precondition of course
+precondition for program
+what is prerequisites for course
+what condition for course
+what is mandatory for course
+what's precondition for course
+what's condition for program
+class prerequisite
+what's precondition of class
+what is course terms
+terms of program
+what preconditions of course
+what is class pre-requisites
+what course requisite
+what is preconditions for course
+what's precondition of program
+what is requirements of program

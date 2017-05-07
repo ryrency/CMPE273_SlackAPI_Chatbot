@@ -48,6 +48,206 @@ profits module
 profits course
 profits technology
 profits class
+what program outcome program
+what program outcome module
+what program outcome course
+what program outcome technology
+what program outcome class
+what po program
+what po module
+what po course
+what po technology
+what po class
+what outcome program
+what outcome module
+what outcome course
+what outcome technology
+what outcome class
+what result program
+what result module
+what result course
+what result technology
+what result class
+what benefit program
+what benefit module
+what benefit course
+what benefit technology
+what benefit class
+what gain program
+what gain module
+what gain course
+what gain technology
+what gain class
+what profit program
+what profit module
+what profit course
+what profit technology
+what profit class
+what outcomes program
+what outcomes module
+what outcomes course
+what outcomes technology
+what outcomes class
+what benefits program
+what benefits module
+what benefits course
+what benefits technology
+what benefits class
+what profits program
+what profits module
+what profits course
+what profits technology
+what profits class
+what's program outcome program
+what's program outcome module
+what's program outcome course
+what's program outcome technology
+what's program outcome class
+what's po program
+what's po module
+what's po course
+what's po technology
+what's po class
+what's outcome program
+what's outcome module
+what's outcome course
+what's outcome technology
+what's outcome class
+what's result program
+what's result module
+what's result course
+what's result technology
+what's result class
+what's benefit program
+what's benefit module
+what's benefit course
+what's benefit technology
+what's benefit class
+what's gain program
+what's gain module
+what's gain course
+what's gain technology
+what's gain class
+what's profit program
+what's profit module
+what's profit course
+what's profit technology
+what's profit class
+what's outcomes program
+what's outcomes module
+what's outcomes course
+what's outcomes technology
+what's outcomes class
+what's benefits program
+what's benefits module
+what's benefits course
+what's benefits technology
+what's benefits class
+what's profits program
+what's profits module
+what's profits course
+what's profits technology
+what's profits class
+what is program outcome program
+what is program outcome module
+what is program outcome course
+what is program outcome technology
+what is program outcome class
+what is po program
+what is po module
+what is po course
+what is po technology
+what is po class
+what is outcome program
+what is outcome module
+what is outcome course
+what is outcome technology
+what is outcome class
+what is result program
+what is result module
+what is result course
+what is result technology
+what is result class
+what is benefit program
+what is benefit module
+what is benefit course
+what is benefit technology
+what is benefit class
+what is gain program
+what is gain module
+what is gain course
+what is gain technology
+what is gain class
+what is profit program
+what is profit module
+what is profit course
+what is profit technology
+what is profit class
+what is outcomes program
+what is outcomes module
+what is outcomes course
+what is outcomes technology
+what is outcomes class
+what is benefits program
+what is benefits module
+what is benefits course
+what is benefits technology
+what is benefits class
+what is profits program
+what is profits module
+what is profits course
+what is profits technology
+what is profits class
+what are program outcome program
+what are program outcome module
+what are program outcome course
+what are program outcome technology
+what are program outcome class
+what are po program
+what are po module
+what are po course
+what are po technology
+what are po class
+what are outcome program
+what are outcome module
+what are outcome course
+what are outcome technology
+what are outcome class
+what are result program
+what are result module
+what are result course
+what are result technology
+what are result class
+what are benefit program
+what are benefit module
+what are benefit course
+what are benefit technology
+what are benefit class
+what are gain program
+what are gain module
+what are gain course
+what are gain technology
+what are gain class
+what are profit program
+what are profit module
+what are profit course
+what are profit technology
+what are profit class
+what are outcomes program
+what are outcomes module
+what are outcomes course
+what are outcomes technology
+what are outcomes class
+what are benefits program
+what are benefits module
+what are benefits course
+what are benefits technology
+what are benefits class
+what are profits program
+what are profits module
+what are profits course
+what are profits technology
+what are profits class
 program outcome
 po
 outcome
@@ -108,3 +308,243 @@ class profit
 class outcomes
 class benefits
 class profits
+what program outcome
+what po
+what outcome
+what result
+what benefit
+what gain
+what profit
+what outcomes
+what benefits
+what profits
+what program program outcome
+what program po
+what program outcome
+what program result
+what program benefit
+what program gain
+what program profit
+what program outcomes
+what program benefits
+what program profits
+what module program outcome
+what module po
+what module outcome
+what module result
+what module benefit
+what module gain
+what module profit
+what module outcomes
+what module benefits
+what module profits
+what course program outcome
+what course po
+what course outcome
+what course result
+what course benefit
+what course gain
+what course profit
+what course outcomes
+what course benefits
+what course profits
+what technology program outcome
+what technology po
+what technology outcome
+what technology result
+what technology benefit
+what technology gain
+what technology profit
+what technology outcomes
+what technology benefits
+what technology profits
+what class program outcome
+what class po
+what class outcome
+what class result
+what class benefit
+what class gain
+what class profit
+what class outcomes
+what class benefits
+what class profits
+what's program outcome
+what's po
+what's outcome
+what's result
+what's benefit
+what's gain
+what's profit
+what's outcomes
+what's benefits
+what's profits
+what's program program outcome
+what's program po
+what's program outcome
+what's program result
+what's program benefit
+what's program gain
+what's program profit
+what's program outcomes
+what's program benefits
+what's program profits
+what's module program outcome
+what's module po
+what's module outcome
+what's module result
+what's module benefit
+what's module gain
+what's module profit
+what's module outcomes
+what's module benefits
+what's module profits
+what's course program outcome
+what's course po
+what's course outcome
+what's course result
+what's course benefit
+what's course gain
+what's course profit
+what's course outcomes
+what's course benefits
+what's course profits
+what's technology program outcome
+what's technology po
+what's technology outcome
+what's technology result
+what's technology benefit
+what's technology gain
+what's technology profit
+what's technology outcomes
+what's technology benefits
+what's technology profits
+what's class program outcome
+what's class po
+what's class outcome
+what's class result
+what's class benefit
+what's class gain
+what's class profit
+what's class outcomes
+what's class benefits
+what's class profits
+what is program outcome
+what is po
+what is outcome
+what is result
+what is benefit
+what is gain
+what is profit
+what is outcomes
+what is benefits
+what is profits
+what is program program outcome
+what is program po
+what is program outcome
+what is program result
+what is program benefit
+what is program gain
+what is program profit
+what is program outcomes
+what is program benefits
+what is program profits
+what is module program outcome
+what is module po
+what is module outcome
+what is module result
+what is module benefit
+what is module gain
+what is module profit
+what is module outcomes
+what is module benefits
+what is module profits
+what is course program outcome
+what is course po
+what is course outcome
+what is course result
+what is course benefit
+what is course gain
+what is course profit
+what is course outcomes
+what is course benefits
+what is course profits
+what is technology program outcome
+what is technology po
+what is technology outcome
+what is technology result
+what is technology benefit
+what is technology gain
+what is technology profit
+what is technology outcomes
+what is technology benefits
+what is technology profits
+what is class program outcome
+what is class po
+what is class outcome
+what is class result
+what is class benefit
+what is class gain
+what is class profit
+what is class outcomes
+what is class benefits
+what is class profits
+what are program outcome
+what are po
+what are outcome
+what are result
+what are benefit
+what are gain
+what are profit
+what are outcomes
+what are benefits
+what are profits
+what are program program outcome
+what are program po
+what are program outcome
+what are program result
+what are program benefit
+what are program gain
+what are program profit
+what are program outcomes
+what are program benefits
+what are program profits
+what are module program outcome
+what are module po
+what are module outcome
+what are module result
+what are module benefit
+what are module gain
+what are module profit
+what are module outcomes
+what are module benefits
+what are module profits
+what are course program outcome
+what are course po
+what are course outcome
+what are course result
+what are course benefit
+what are course gain
+what are course profit
+what are course outcomes
+what are course benefits
+what are course profits
+what are technology program outcome
+what are technology po
+what are technology outcome
+what are technology result
+what are technology benefit
+what are technology gain
+what are technology profit
+what are technology outcomes
+what are technology benefits
+what are technology profits
+what are class program outcome
+what are class po
+what are class outcome
+what are class result
+what are class benefit
+what are class gain
+what are class profit
+what are class outcomes
+what are class benefits
+what are class profits

@@ -1,12 +1,12 @@
 from utils import *
 from course import *
 
-_last_course_section_in_context = None
+last_course_section_in_context = None
 
 import re
 
 def get_course_section(text, course):
-    global _last_course_section_in_context
+    global last_course_section_in_context
     connection = get_mysql_connection()
 
     try:
@@ -23,11 +23,11 @@ def get_course_section(text, course):
                 p = re.compile(regex)
                 m = p.search(text)
                 if m:
-                    _last_course_section_in_context = course_section
+                    last_course_section_in_context = course_section
                     return (course_section, text.replace(m.group(0), ""))
 
-            if _last_course_section_in_context:
-                return _last_course_section_in_context, text
+            if last_course_section_in_context:
+                return last_course_section_in_context, text
     finally:
         connection.close()
 

@@ -2,11 +2,14 @@
 
 grammar slackbot;
 
-<course> = program | module | course | technology | class ;
+<course> = program | course | class ;
 
 <name> = web link | site | web-link | url | website | website url;
 
 <of> = of | for ;
-public <command> = <course> <name> ;
 
-public <command> = <name> <of> <course> ;
+<what> = what | what's | what is;
+
+public <command> = [<what>] <course> <name> ;
+
+public <command> = [<what>] <name> <of> <course> ;

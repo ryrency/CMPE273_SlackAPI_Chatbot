@@ -8,6 +8,8 @@ grammar slackbot;
 
 <of> = of | for | from ;
 
-public <command> = <outcome> <course> ;
+<what> = what | what's | what is | what are;
 
-public <command> = [<course>] <outcome> ;
+public <command> = [<what>] <outcome> <course> ;
+
+public <command> = [<what>] [<course>] <outcome> ;
