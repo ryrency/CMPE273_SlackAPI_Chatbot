@@ -48,7 +48,7 @@ create table course_topics(
     foreign key (course_section_id) references course_sections(id)
     );
 
-create table course_grading(
+create table course_grading (
     id int auto_increment not null primary key,
 	course_section_id int not null,
     activity varchar(255),

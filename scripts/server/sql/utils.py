@@ -1,6 +1,6 @@
 import re
 import pymysql.cursors
-import json, datetime
+import json, datetime, os
 
 class DateTimeEncoder(json.JSONEncoder):
     def default(self, o):
@@ -19,9 +19,9 @@ def get_mysql_connection():
     #                          db='slackbot',
     #                          cursorclass=pymysql.cursors.DictCursor)
     # return connection
-    connection = pymysql.connect(host='cmpe273slackchatbot.ccfvg2vye9jf.us-east-1.rds.amazonaws.com',
-                             user='slackchatbot',
-                             password='slackchatbot',
+    connection = pymysql.connect(host=os.environ['DB_HOST'],
+                             user=os.environ['DB_USER'],
+                             password=os.environ['DB_PASS'],
                              db='slackbot',
                              cursorclass=pymysql.cursors.DictCursor)
     return connection
