@@ -11,7 +11,7 @@ VALUES("cmpe273", "Enterprise Distributed Systems", "Strong in a OOP or function
 
 INSERT INTO instructors (name, office_location, email, office_start_time,
 office_end_time, specific_instruction, preferred_contact_method, office_phone, about)
-VALUES("Sithu Aung","ENG 281","Sithu.aung@sjsu.edu","Wednesday 5:00PM", "6:00PM,"Appointment necessary before meeting","e-mail","Office Phone No not shared","Professor at SJSU" );
+VALUES("Sithu Aung","ENG 281","Sithu.aung@sjsu.edu","Wednesday 5:00PM", "6:00PM" ,"Appointment necessary before meeting","e-mail","Office Phone No not shared","Professor at SJSU" );
 
 
 
