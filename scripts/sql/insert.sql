@@ -11,7 +11,9 @@ VALUES("cmpe273", "Enterprise Distributed Systems", "Strong in a OOP or function
 
 INSERT INTO instructors (name, office_location, email, office_start_time,
 office_end_time, specific_instruction, preferred_contact_method, office_phone, about)
-VALUES("Sithu Aung","ENG 337","richardsinn@yahoo.com","Saturday 9:15AM", "12:00PM","Appointment necessary before meeting","e-mail","Office Phone No not shared","Professor at SJSU" );
+VALUES("Sithu Aung","ENG 281","Sithu.aung@sjsu.edu","Wednesday 5:00PM", "6:00PM,"Appointment necessary before meeting","e-mail","Office Phone No not shared","Professor at SJSU" );
+
+
 
 INSERT INTO course_sections(course_id, section_no)
 VALUES(1, "01");
@@ -140,7 +142,8 @@ VALUES("cmpe272", "Enterprise Software Platforms", "Classified graduate standing
 
 INSERT INTO instructors (name, office_location, email, office_start_time,
 office_end_time, specific_instruction, preferred_contact_method, office_phone, about)
-VALUES("Richard Sinn","ENG 281","Sithu.aung@sjsu.edu","Wednesday 5:00PM", "6:00PM","Class meets every sat","e-mail","Office Phone No not shared","Richard Sinn is a Professor at SJSU and a Senior Software Development Manager at Adobe." );
+VALUES("Richard Sinn","ENG 337","richardsinn@yahoo.com","Saturday 9:15AM", "12:00PM","Class meets every sat","e-mail","Office Phone No not shared","Richard Sinn is a Professor at SJSU and a Senior Software Development Manager at Adobe." );
+
 
 INSERT INTO course_sections(course_id, section_no)
 VALUES(2, "02");
