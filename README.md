@@ -2,7 +2,7 @@
 
 # Slack API Chatbot
 
-Description: 
+### Description: 
 
 Using Slack channel as GUI for users, this chatbot uses Machine Learning models to answer user's questions and answers accurately. 
 
