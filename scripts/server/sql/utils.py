@@ -13,9 +13,15 @@ def extract_digits(text):
     return str(filter(str.isdigit, text))
 
 def get_mysql_connection():
-    connection = pymysql.connect(host='localhost',
-                             user='root',
-                             password='',
+    # connection = pymysql.connect(host='localhost',
+    #                          user='root',
+    #                          password='',
+    #                          db='slackbot',
+    #                          cursorclass=pymysql.cursors.DictCursor)
+    # return connection
+    connection = pymysql.connect(host='cmpe273slackchatbot.ccfvg2vye9jf.us-east-1.rds.amazonaws.com',
+                             user='slackchatbot',
+                             password='slackchatbot',
                              db='slackbot',
                              cursorclass=pymysql.cursors.DictCursor)
     return connection
