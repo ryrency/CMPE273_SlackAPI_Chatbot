@@ -1,6 +1,7 @@
 import re
 import pymysql.cursors
 import json, datetime, os
+from pattern.en import singularize
 
 class DateTimeEncoder(json.JSONEncoder):
     def default(self, o):
@@ -78,4 +79,12 @@ def map_word_to_digit(word):
     if word == 'nine' or word == 'ninth':
         return "9"
     return word
+
+def singularize_words(text):
+    words = text.split(" ")
+    mapped_words = []
+    for word in words:
+        mapped_words.append(singularize(word))
+
+    return " ".join(mapped_words)
 

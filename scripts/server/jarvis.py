@@ -33,6 +33,7 @@ def reset():
 def _get_answer(text):
     text = text.lower()
     text = utils.map_words_to_digits_in_text(text)
+    text = utils.singularize_words(text)
     label = txt_clf.classify(text)
 
     if label == 'instructor_contact':

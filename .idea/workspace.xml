@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82d19bc-c9c3-41ba-b698-4c2f18411bab" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EC2/CMPE273.pem" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/EC2/EC2InstanceDetails" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RDS/dbdetails" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/server/jarvis.py" afterPath="$PROJECT_DIR$/scripts/server/jarvis.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/server/sql/utils.py" afterPath="$PROJECT_DIR$/scripts/server/sql/utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/sql/scripts.sql" afterPath="$PROJECT_DIR$/scripts/sql/scripts.sql" />
     </list>
     <ignored path="CMPE273_SlackAPI_Chatbot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36516854">
+            <state vertical-scroll-proportion="-7.2222223">
               <caret line="13" column="29" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="29" />
               <folding />
             </state>
@@ -52,8 +48,8 @@
       <file leaf-file-name="insert.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/sql/insert.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="148" column="28" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="28" />
+            <state vertical-scroll-proportion="-7.2222223">
+              <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -103,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jarvis.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jarvis.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/server/jarvis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7860963">
+              <caret line="36" column="28" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -119,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/scripts/server/sql/utils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+              <caret line="86" column="39" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="39" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -179,7 +175,6 @@
         <option value="$PROJECT_DIR$/jsgfs/course_name.jsgf" />
         <option value="$PROJECT_DIR$/scripts/server/sql/lab_schedule.py" />
         <option value="$PROJECT_DIR$/jsgfs/course_prereq.jsgf" />
-        <option value="$PROJECT_DIR$/scripts/server/jarvis.py" />
         <option value="$PROJECT_DIR$/scripts/server/sql/instructor_contact.py" />
         <option value="$PROJECT_DIR$/scripts/server/sql/test.py" />
         <option value="$PROJECT_DIR$/scripts/server/sql/course_section.py" />
@@ -188,9 +183,10 @@
         <option value="$PROJECT_DIR$/scripts/sql/insert.sql" />
         <option value="$PROJECT_DIR$/scripts/server/sql/course.py" />
         <option value="$PROJECT_DIR$/jarvis.py" />
-        <option value="$PROJECT_DIR$/scripts/server/sql/utils.py" />
         <option value="$PROJECT_DIR$/scripts/sql/scripts.sql" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/scripts/server/sql/utils.py" />
+        <option value="$PROJECT_DIR$/scripts/server/jarvis.py" />
       </list>
     </option>
   </component>
@@ -950,30 +946,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/server/jarvis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/server/sql/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sql/insert.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="148" column="28" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="28" />
+        <state vertical-scroll-proportion="-7.2222223">
+          <caret line="152" column="28" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -988,9 +964,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36516854">
+        <state vertical-scroll-proportion="-7.2222223">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="29" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/server/sql/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="39" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/server/jarvis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7860963">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
