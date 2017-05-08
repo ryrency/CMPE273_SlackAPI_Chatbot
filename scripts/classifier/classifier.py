@@ -18,10 +18,10 @@ class Classifier():
 
     def classify(self, text):
         predicted = self.txt_clf.predict([text])
-        #print(predicted)
+        print(predicted)
         return self.target_names[predicted[0]]
 
 
-# if __name__ == '__main__':
-#     clf = Classifier()
-#     print(clf.classify(sys.argv[1]))
+if __name__ == '__main__':
+    clf = Classifier()
+    print(clf.classify(sys.argv[1]))

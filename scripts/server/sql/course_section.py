@@ -49,3 +49,4 @@ def get_course_section_details(course_section_id):
         connection.close()
 
     return None
+

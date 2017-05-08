@@ -65,8 +65,7 @@ if __name__ == "__main__":
                 with sr.Microphone() as source:
                     print("Say something!")
                     response1 = "Say something!"
-                    slack_client.api_call("chat.postMessage", channel=channel,
-                                          text=response1, as_user=True)
+                    slack_client.api_call("chat.postMessage", channel=channel, text=response1, as_user=True)
                     audio = r.listen(source)
 
                     if r.recognize_google(audio):

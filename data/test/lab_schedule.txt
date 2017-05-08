@@ -1,58 +1,58 @@
-when lab due-date
-when last date for laboratory
-when is schedule lab
-when schedule for lab
-when is lab deadline
-when due-date for laboratory
-when laboratory target date
-when laboratory due
-when last day for laboratory
-when lab last day
-when is finishing date of laboratory
-when is schedule laboratory
-when is last day lab
-when is last date of lab
-when end date for laboratory
-when laboratory due date
-when is laboratory deadline
-when schedule lab
+when is finishing date for laboratory
+deadline for laboratory
+when last date for lab
+when is end date lab
+due lab
+when due for lab
+when time frame of lab
+lab finishing date
+when is due for laboratory
+when schedule of lab
+submission deadline lab
+when submission deadline for lab
+when is last day of lab
+when is lab last day
 target date lab
-due-date laboratory
-due-date lab
-schedule of laboratory
-when laboratory last day
-when finishing date of lab
-when last day for lab
-when target date of lab
+schedule lab
+laboratory target date
 when is target date lab
-time frame laboratory
-when finishing date lab
-when last date lab
-when is last date for lab
-when last day of laboratory
-when is laboratory target date
-when is finishing date for lab
-due date for laboratory
-when lab time frame
-when due of laboratory
-when lab due
+when is last date laboratory
+submission deadline laboratory
+time frame for laboratory
+when is target date for laboratory
+when due date of laboratory
+when schedule for lab
+submission deadline of lab
 when is due date laboratory
-due of laboratory
-when due date of lab
-when target date lab
-when is finishing date of lab
-due-date for lab
-when deadline for lab
-when due-date of lab
-target date of laboratory
-due date of laboratory
-when finishing date of laboratory
-when deadline of lab
-when is last date for laboratory
-when is last day for laboratory
-last day of laboratory
-when is laboratory last date
-end date of lab
-when is due date for laboratory
-when last day of lab
-due for laboratory
+when due-date lab
+laboratory finishing date
+when submission deadline of lab
+when due date lab
+due date for laboratory
+when due date for laboratory
+when is lab deadline
+laboratory last date
+laboratory due
+due date of lab
+when lab submission deadline
+when is laboratory target date
+when is due date of lab
+lab deadline
+when is due for lab
+when is submission deadline of lab
+when is target date laboratory
+when finishing date lab
+laboratory time frame
+when laboratory schedule
+when is lab finishing date
+when is end date of laboratory
+when last date for laboratory
+when is lab due
+deadline of laboratory
+last date laboratory
+deadline laboratory
+time frame of laboratory
+submission deadline for laboratory
+when finishing date laboratory
+schedule of lab
+when due-date of laboratory

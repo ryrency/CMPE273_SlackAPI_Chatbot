@@ -1,5 +1,4 @@
-use slackbot;
-
+ use slackbot;
 
 /*******************************************************************************************************************************************************************/
 /*GREENSHEET - SITHU AUNG*/
@@ -11,7 +10,7 @@ VALUES("cmpe273", "Enterprise Distributed Systems", "Strong in a OOP or function
 
 INSERT INTO instructors (name, office_location, email, office_start_time,
 office_end_time, specific_instruction, preferred_contact_method, office_phone, about)
-VALUES("Sithu Aung","ENG 337","richardsinn@yahoo.com","Saturday 9:15AM", "12:00PM","","","","Professor at SJSU & " );
+VALUES("Sithu Aung","ENG 337","richardsinn@yahoo.com","Saturday 9:15AM", "12:00PM","","","415-xxx-xxxx","Professor at SJSU & " );
 
 INSERT INTO course_sections(course_id, section_no)
 VALUES(1, "01");
@@ -111,8 +110,8 @@ VALUES(1,"Be able to communicate effectively, in both oral and written forms.");
 
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(1,1,"6:00PM","8.45PM","SH100","","","Book1, Book2, Book3");
+class_end_time, class_location,course_website,add_drop_detail,reference_material, day_of_week)
+VALUES(1,1,"6:00PM","8.45PM","SH100","","","Book1, Book2, Book3", "Wednesday");
 
 
 
@@ -140,7 +139,7 @@ VALUES("cmpe272", "Enterprise Software Platforms", "Classified graduate standing
 
 INSERT INTO instructors (name, office_location, email, office_start_time,
 office_end_time, specific_instruction, preferred_contact_method, office_phone, about)
-VALUES("Richard Sinn","ENG 281","Sithu.aung@sjsu.edu","Wednesday 5:00PM", "6:00PM","","","","Richard Sinn is a Professor at SJSU and a Senior Software Development Manager at Adobe." );
+VALUES("Richard Sinn","ENG 281","coolprofsinn@gmail.com","Wednesday 5:00PM", "6:00PM","","","","Richard Sinn is a Professor at SJSU and a Senior Software Development Manager at Adobe." );
 
 INSERT INTO course_sections(course_id, section_no)
 VALUES(2, "02");
@@ -206,9 +205,9 @@ VALUES(2,"2017-05-20","Final Exam");
 INSERT INTO course_grading(course_section_id, activity, weight, activity_type)
 VALUES(2, "Labs","35%", 1);
 INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
-VALUES(2, "Team Project","20%", 2);
+VALUES(2, "Team Project","20%", 3);
 INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
-VALUES(2, "Team Presentation","20%", 3);
+VALUES(2, "Team Presentation","20%", 6);
 INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
 VALUES(2, "Mid-Term Exam","15%", 4);
 INSERT INTO course_grading(course_section_id,activity,weight, activity_type)
@@ -249,8 +248,8 @@ VALUES(2,"Ability to analyze software technologies, standards, and architectures
 
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(2,2,"9:15AM","12.00PM","ENG 337","","","TCP refernce");
+class_end_time, class_location,course_website,add_drop_detail,reference_material, day_of_week)
+VALUES(2,2,"9:15AM","12.00PM","ENG 337","","","TCP refernce", "Saturday");
 
 
 /*******************************************************************************************************************************************************************/
