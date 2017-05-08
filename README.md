@@ -27,33 +27,49 @@ Using Slack channel as GUI for users, this chatbot uses Machine Learning models 
 
 
 ### Required Libraries 
-
-sly pymysql slackclient numpy scipy scikit-learn pattern
+```json
+sly
+pymysql
+slackclient
+numpy
+scipy
+scikit-learn
+pattern
+```
 
 #### Installation All above libraries with pip
-
+```python
 pip install sly pymysql slackclient numpy scipy scikit-learn pattern
+```
 
 or 
 
 #### install python requirements (after cloning the git repo)
+```python
 pip install -r requirements.txt
+```
 
 
 #### set the following environments properly
 The code uses database configuration from environment variables, make sure to add them
+```bash
 export DB_HOST='localhost'
 export DB_USER=root
 export DB_PASS=''
+```
 
 #### Set the slack bot id and token
+```bash
 export SLACK_BOT_TOKEN='xoxb-175807218647-HL9jcD2OAzBxgj5G0QBrwcfX'
 export BOT_ID='U55PR6EK1'
+```
 
 
 #### Run the scripts to create database and push the required greensheet data to database
+```bash
 mysql -h $DB_HOST -u $DB_USER < scripts/sql/scripts.sql
 mysql -h $DB_HOST -u $DB_USER < scripts/sql/insert.sql
+```
 
 
 ### Run the chatbot server
