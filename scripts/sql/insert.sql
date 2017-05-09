@@ -37,9 +37,9 @@ VALUES(1, "2017-05-10 11:59:00","Lab 4", 0);
 INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
 VALUES(1, "2017-05-10 11:59:00","Project", 2);
 INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
-VALUES(1, "2017-05-10 11:59:00","Mid-term", 3);
+VALUES(1, "2017-05-10 17:00:00","Mid-term", 3);
 INSERT INTO course_schedules (course_section_id, due_date, activity, activity_type)
-VALUES(1, "2017-05-10 11:59:00","Final Exam", 4);
+VALUES(1, "2017-05-10 17:00:00","Final Exam", 4);
 
 
 
@@ -168,6 +168,12 @@ INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_ty
 VALUES(2, "2017-04-26 11:59:00","Lab: CURL", 0);
 INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
 VALUES(2, "2017-05-03 11:59:00","Lab: Youtube tryout", 0);
+INSERT INTO course_topics(course_section_id,lecture_date,topic)
+VALUES(2,"2017-05-20 09:10:00","Final Exam",4);
+INSERT INTO course_topics(course_section_id,lecture_date,topic)
+VALUES(2,"2017-03-24 09:10:00","Mid Term",3);
+
+
 
 
 
