@@ -17,4 +17,4 @@ def get_location(text):
     if not course_section_details:
         return "Sorry no class location found for " + course_section_name
 
-    return course_section_name + " classes we be held in " + course_section_details['class_location']
+    return course_section_name + " classes will be held in " + course_section_details['class_location']
