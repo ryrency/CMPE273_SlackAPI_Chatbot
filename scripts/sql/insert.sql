@@ -168,6 +168,12 @@ INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_ty
 VALUES(2, "2017-04-26 11:59:00","Lab: CURL", 0);
 INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
 VALUES(2, "2017-05-03 11:59:00","Lab: Youtube tryout", 0);
+INSERT INTO course_topics(course_section_id,lecture_date,topic)
+VALUES(2,"2017-05-20 09:10:00","Final Exam",4);
+INSERT INTO course_topics(course_section_id,lecture_date,topic)
+VALUES(2,"2017-03-24 09:10:00","Mid Term",3);
+
+
 
 
 
