@@ -4,12 +4,12 @@
 
 ### Description: 
 
-Using Slack channel as GUI for users, this chatbot uses Machine Learning models to answer user's questions and answers accurately. 
+Using Slack channel as GUI for users, this chatbot uses Machine Learning models to answer user's questions and answers accurately. Our reference has been http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html.
 
 ### Advantages
 
 #### Machine Learning
-	The chatbot uses SVM Machine Learning algorithm in scikit library for classifying the questions.
+	The chatbot uses SVM Machine Learning algorithm in scikit library for classifying the questions. Our tests currently indicate an accuracy of around 98%.
 #### JSpeech Grammar Format
 	The chatbot was trained by a model with questions were generated to JSpeech Grammar Format (JSGF).
 
