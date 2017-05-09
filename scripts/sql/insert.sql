@@ -114,7 +114,7 @@ VALUES(1,"Be able to communicate effectively, in both oral and written forms.");
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
 class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(1,1,"6:00PM","8.45PM","SH100","https://sjsu.instructure.com/courses","Please check college website for details","Book1, Book2, Book3");
+VALUES(1,1,"6:00PM","8.45PM","SH100","https://sjsu.instructure.com/courses","Please check college website for details","Web Services - by Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju (2003), Enterprise Integration Patterns - by Gregor Hohpe and Bobby Woolf (2003), Restful Web Services, by Leonard Richardson, Sam Ruby and David Hansson (2007)");
 
 
 
@@ -253,31 +253,16 @@ VALUES(2,"Ability to analyze software technologies, standards, and architectures
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
 class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(2,2,"9:15AM","12.00PM","ENG 337","http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/","Please check college website for details.","TCP refernce");
+VALUES(2,2,"9:15AM","12.00PM","ENG 337","http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/","Please check college website for details.","HTTP 1.1 - RFC 2616");
 
 
 /*******************************************************************************************************************************************************************/
 /*University policies*/
 /*******************************************************************************************************************************************************************/
 
+
 INSERT INTO  university_policy(name,description)
-VALUES("General Expectations, Rights and Responsibilities of the Student","As members of the academic community, students accept both the rights and responsibilities incumbent upon all members of the institution. Students are encouraged to familiarize themselves with SJSU’s policies and practices pertaining to the procedures to follow if and when questions or concerns about a class arises. To learn important campus information, view University Policy S16-15 and SJSU current semester’s Policies and Procedures. In general, it is recommended that students begin by seeking clarification or discussing concerns with their instructor.  If such conversation is not possible, or if it does not address the issue, it is recommended that the student contact the Department Chair as the next step.");
-INSERT INTO  university_policy(name,description)
-VALUES("Workload and Credit Hour Requirements","Success in this course is based on the expectation that students will spend, for each unit of credit, a minimum of 45 hours over the length of the course (normally 3 hours per unit per week with 1 of the hours used for lecture) for instruction or preparation/studying or course related activities including but not limited to internships, labs, clinical practica. Other course structures will have equivalent workload expectations as described in the syllabus.");
-INSERT INTO  university_policy(name,description)
-VALUES("Attendance and Participation ","Attendance per se shall not be used as a criterion for grading. However, students are expected to attend all meetings for the courses in which they are enrolled as they are responsible for material discussed therein, and active participation is frequently essential to ensure maximum benefit to all class members. In some cases, attendance is fundamental to course objectives; for example, students may be required to interact with others in the class. Attendance is the responsibility of the student. Participation may be used as a criterion for grading when the parameters and their evaluation are clearly defined in the course syllabus and the percentage of the overall grade is stated. The full policy language can be found at http://www.sjsu.edu/senate/docs/F15-3.pdf");
-INSERT INTO  university_policy(name,description)
-VALUES("Accommodation to Students’ Religious Holidays","University Policy S14-7 states that San José State University shall provide accommodation on any graded class work or activities for students wishing to observe religious holidays when such observances require students to be absent from class. It is the responsibility of the student to inform the instructor, in writing, about such holidays before the add deadline at the start of each semester. If such holidays occur before the add deadline, the student must notify the instructor, in writing, at least three days before the date that he/she will be absent. It is the responsibility of the instructor to make every reasonable effort to honor the student request without penalty, and of the student to make up the work missed. ");
-INSERT INTO  university_policy(name,description)
-VALUES("Dropping and Adding","Students are responsible for understanding the policies and procedures about add/drop, grade forgiveness, etc.  Add/drop deadlines can be found on the current academic year calendars document on the Academic Calendars webpage.  Students should be aware of the current deadlines and penalties for dropping classes (Late Drop Information).Information about the latest changes and news is available at the Advising Hub.");
-INSERT INTO  university_policy(name,description)
-VALUES("Academic integrity","Your commitment, as a student, to learning is evidenced by your enrollment at San Jose State University.  The University Academic Integrity Policy F15-7 requires you to be honest in all your academic course work. Faculty members are required to report all infractions to the office of Student Conduct and Ethical Development. Visit the Student Conduct and Ethical Development website for more information.");
-INSERT INTO  university_policy(name,description)
-VALUES("Campus Policy in Compliance with the American Disabilities Act","If you need course adaptations or accommodations because of a disability, or if you need to make special arrangements in case the building must be evacuated, please make an appointment with me as soon as possible, or see me during office hours. Presidential Directive 97-03 requires that students with disabilities requesting accommodations must register with the Accessible Education Center (AEC) to establish a record of their disability.");
-INSERT INTO  university_policy(name,description)
-VALUES("SJSU Writing Center","The SJSU Writing Center is located in Clark Hall, Suite 126. All Writing Specialists have gone through a rigorous hiring process, and they are well trained to assist all students at all levels within all disciplines to become better writers. In addition to one-on-one tutoring services, the Writing Center also offers workshops every semester on a variety of writing topics. To make an appointment or to refer to the numerous online resources offered through the Writing Center, visit the Writing Center website at http://www.sjsu.edu/writingcenter. For additional resources and updated information, follow the Writing Center on Twitter and become a fan of the SJSU Writing Center on Facebook.");
-INSERT INTO  university_policy(name,description)
-VALUES("SJSU Peer Connections","Peer Connections’ free tutoring and mentoring is designed to assist students in the development of their full academic potential and to inspire them to become independent learners.  Peer Connections tutors are trained to provide content-based tutoring in many lower division courses (some upper division) as well as writing and study skills assistance. Small group and individual tutoring are available.  Peer Connections mentors are trained to provide support and resources in navigating the college experience. This support includes assistance in learning strategies and techniques on how to be a successful student.  Peer Connections has a learning commons, desktop computers, and success workshops on a wide variety of topics.  For more information on services, hours, locations, or a list of current workshops, please visit Peer Connections website at http://peerconnections.sjsu.edu for more information.");
-INSERT INTO  university_policy(name,description)
-VALUES("Student Technology Resources","A wide variety of audio-visual equipment is available for student checkout from Media Services located in IRC 112. These items include DV and HD digital camcorders; digital still cameras; video, slide and overhead projectors; DVD, CD, and audiotape players; sound systems, wireless microphones, projection screens and monitors.");
+VALUES("ALl Policies","Per University Policy S16-9, university-wide policy information relevant to all courses, such as academic integrity, accommodations, etc. will be available on Office of Graduate and Undergraduate Programs’ Syllabus Information web page at http://www.sjsu.edu/gup/syllabusinfo/”
+");
+
 
