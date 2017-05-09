@@ -88,3 +88,4 @@ def singularize_words(text):
 
     return " ".join(mapped_words)
 
+

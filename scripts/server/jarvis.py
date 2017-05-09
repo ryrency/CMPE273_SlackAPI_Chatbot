@@ -9,7 +9,7 @@ import utils, course, course_section, program_outcomes, learning_objectives, lab
     assignment_schedule, project_schedule, mid_term_schedule, final_exam_schedule, \
     course_grading, course_name, class_location, course_prereq, course_timings, course_website, \
     instructor_contact, instructor_email, instructor_name, instructor_office_hours, instructor_office_location, \
-    instructor_phone
+    instructor_phone, university_policy , reference_materials
 
 
 # jarvis's ID as an environment variable
@@ -74,6 +74,10 @@ def _get_answer(text):
         return final_exam_schedule.get_final_exam_schedule(text)
     elif label == 'course_grading':
         return course_grading.get_course_grading_details(text)
+    elif label == 'university_policy':
+        return university_policy.get_university_policy(text)
+    elif label == 'reference_materials':
+        return reference_materials.get_reference_material(text)
     else:
         return label
 

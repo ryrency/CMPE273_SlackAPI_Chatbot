@@ -18,7 +18,6 @@ class Classifier():
 
     def classify(self, text):
         predicted = self.txt_clf.predict([text])
-        print(predicted)
         return self.target_names[predicted[0]]
 
 
