@@ -4,7 +4,7 @@ grammar slackbot;
 
 <university> = university | school | course | program ;
 
-<policy> = policy | protocol | guidelines  | terms and conditions | rule;
+<policy> = policy | protocol | guideline | term and condition | rule;
 
 <of> = of | for ;
 

@@ -4,7 +4,7 @@ grammar slackbot;
 
 <course> = program | course | class ;
 
-<name> = mandatory | prerequisites | prerequisite | pre-requisites | prereq | essentials | essential | preconditions | precondition | condition | terms | requisite | requisites | requirements | required ;
+<name> = mandatory | prerequisite | pre-requisite | prereq | essential | precondition | condition | term | requisite | requirement | required ;
 
 <of> = of | for ;
 

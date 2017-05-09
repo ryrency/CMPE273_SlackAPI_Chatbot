@@ -22,30 +22,30 @@ protocol for university
 protocol for school
 protocol for course
 protocol for program
-guidelines university
-guidelines school
-guidelines course
-guidelines program
-guidelines of university
-guidelines of school
-guidelines of course
-guidelines of program
-guidelines for university
-guidelines for school
-guidelines for course
-guidelines for program
-terms and conditions university
-terms and conditions school
-terms and conditions course
-terms and conditions program
-terms and conditions of university
-terms and conditions of school
-terms and conditions of course
-terms and conditions of program
-terms and conditions for university
-terms and conditions for school
-terms and conditions for course
-terms and conditions for program
+guideline university
+guideline school
+guideline course
+guideline program
+guideline of university
+guideline of school
+guideline of course
+guideline of program
+guideline for university
+guideline for school
+guideline for course
+guideline for program
+term and condition university
+term and condition school
+term and condition course
+term and condition program
+term and condition of university
+term and condition of school
+term and condition of course
+term and condition of program
+term and condition for university
+term and condition for school
+term and condition for course
+term and condition for program
 rule university
 rule school
 rule course
@@ -82,30 +82,30 @@ what protocol for university
 what protocol for school
 what protocol for course
 what protocol for program
-what guidelines university
-what guidelines school
-what guidelines course
-what guidelines program
-what guidelines of university
-what guidelines of school
-what guidelines of course
-what guidelines of program
-what guidelines for university
-what guidelines for school
-what guidelines for course
-what guidelines for program
-what terms and conditions university
-what terms and conditions school
-what terms and conditions course
-what terms and conditions program
-what terms and conditions of university
-what terms and conditions of school
-what terms and conditions of course
-what terms and conditions of program
-what terms and conditions for university
-what terms and conditions for school
-what terms and conditions for course
-what terms and conditions for program
+what guideline university
+what guideline school
+what guideline course
+what guideline program
+what guideline of university
+what guideline of school
+what guideline of course
+what guideline of program
+what guideline for university
+what guideline for school
+what guideline for course
+what guideline for program
+what term and condition university
+what term and condition school
+what term and condition course
+what term and condition program
+what term and condition of university
+what term and condition of school
+what term and condition of course
+what term and condition of program
+what term and condition for university
+what term and condition for school
+what term and condition for course
+what term and condition for program
 what rule university
 what rule school
 what rule course
@@ -142,30 +142,30 @@ what's protocol for university
 what's protocol for school
 what's protocol for course
 what's protocol for program
-what's guidelines university
-what's guidelines school
-what's guidelines course
-what's guidelines program
-what's guidelines of university
-what's guidelines of school
-what's guidelines of course
-what's guidelines of program
-what's guidelines for university
-what's guidelines for school
-what's guidelines for course
-what's guidelines for program
-what's terms and conditions university
-what's terms and conditions school
-what's terms and conditions course
-what's terms and conditions program
-what's terms and conditions of university
-what's terms and conditions of school
-what's terms and conditions of course
-what's terms and conditions of program
-what's terms and conditions for university
-what's terms and conditions for school
-what's terms and conditions for course
-what's terms and conditions for program
+what's guideline university
+what's guideline school
+what's guideline course
+what's guideline program
+what's guideline of university
+what's guideline of school
+what's guideline of course
+what's guideline of program
+what's guideline for university
+what's guideline for school
+what's guideline for course
+what's guideline for program
+what's term and condition university
+what's term and condition school
+what's term and condition course
+what's term and condition program
+what's term and condition of university
+what's term and condition of school
+what's term and condition of course
+what's term and condition of program
+what's term and condition for university
+what's term and condition for school
+what's term and condition for course
+what's term and condition for program
 what's rule university
 what's rule school
 what's rule course
@@ -202,30 +202,30 @@ what is protocol for university
 what is protocol for school
 what is protocol for course
 what is protocol for program
-what is guidelines university
-what is guidelines school
-what is guidelines course
-what is guidelines program
-what is guidelines of university
-what is guidelines of school
-what is guidelines of course
-what is guidelines of program
-what is guidelines for university
-what is guidelines for school
-what is guidelines for course
-what is guidelines for program
-what is terms and conditions university
-what is terms and conditions school
-what is terms and conditions course
-what is terms and conditions program
-what is terms and conditions of university
-what is terms and conditions of school
-what is terms and conditions of course
-what is terms and conditions of program
-what is terms and conditions for university
-what is terms and conditions for school
-what is terms and conditions for course
-what is terms and conditions for program
+what is guideline university
+what is guideline school
+what is guideline course
+what is guideline program
+what is guideline of university
+what is guideline of school
+what is guideline of course
+what is guideline of program
+what is guideline for university
+what is guideline for school
+what is guideline for course
+what is guideline for program
+what is term and condition university
+what is term and condition school
+what is term and condition course
+what is term and condition program
+what is term and condition of university
+what is term and condition of school
+what is term and condition of course
+what is term and condition of program
+what is term and condition for university
+what is term and condition for school
+what is term and condition for course
+what is term and condition for program
 what is rule university
 what is rule school
 what is rule course
@@ -262,30 +262,30 @@ what are protocol for university
 what are protocol for school
 what are protocol for course
 what are protocol for program
-what are guidelines university
-what are guidelines school
-what are guidelines course
-what are guidelines program
-what are guidelines of university
-what are guidelines of school
-what are guidelines of course
-what are guidelines of program
-what are guidelines for university
-what are guidelines for school
-what are guidelines for course
-what are guidelines for program
-what are terms and conditions university
-what are terms and conditions school
-what are terms and conditions course
-what are terms and conditions program
-what are terms and conditions of university
-what are terms and conditions of school
-what are terms and conditions of course
-what are terms and conditions of program
-what are terms and conditions for university
-what are terms and conditions for school
-what are terms and conditions for course
-what are terms and conditions for program
+what are guideline university
+what are guideline school
+what are guideline course
+what are guideline program
+what are guideline of university
+what are guideline of school
+what are guideline of course
+what are guideline of program
+what are guideline for university
+what are guideline for school
+what are guideline for course
+what are guideline for program
+what are term and condition university
+what are term and condition school
+what are term and condition course
+what are term and condition program
+what are term and condition of university
+what are term and condition of school
+what are term and condition of course
+what are term and condition of program
+what are term and condition for university
+what are term and condition for school
+what are term and condition for course
+what are term and condition for program
 what are rule university
 what are rule school
 what are rule course
@@ -300,101 +300,101 @@ what are rule for course
 what are rule for program
 university policy
 university protocol
-university guidelines
-university terms and conditions
+university guideline
+university term and condition
 university rule
 school policy
 school protocol
-school guidelines
-school terms and conditions
+school guideline
+school term and condition
 school rule
 course policy
 course protocol
-course guidelines
-course terms and conditions
+course guideline
+course term and condition
 course rule
 program policy
 program protocol
-program guidelines
-program terms and conditions
+program guideline
+program term and condition
 program rule
 what university policy
 what university protocol
-what university guidelines
-what university terms and conditions
+what university guideline
+what university term and condition
 what university rule
 what school policy
 what school protocol
-what school guidelines
-what school terms and conditions
+what school guideline
+what school term and condition
 what school rule
 what course policy
 what course protocol
-what course guidelines
-what course terms and conditions
+what course guideline
+what course term and condition
 what course rule
 what program policy
 what program protocol
-what program guidelines
-what program terms and conditions
+what program guideline
+what program term and condition
 what program rule
 what's university policy
 what's university protocol
-what's university guidelines
-what's university terms and conditions
+what's university guideline
+what's university term and condition
 what's university rule
 what's school policy
 what's school protocol
-what's school guidelines
-what's school terms and conditions
+what's school guideline
+what's school term and condition
 what's school rule
 what's course policy
 what's course protocol
-what's course guidelines
-what's course terms and conditions
+what's course guideline
+what's course term and condition
 what's course rule
 what's program policy
 what's program protocol
-what's program guidelines
-what's program terms and conditions
+what's program guideline
+what's program term and condition
 what's program rule
 what is university policy
 what is university protocol
-what is university guidelines
-what is university terms and conditions
+what is university guideline
+what is university term and condition
 what is university rule
 what is school policy
 what is school protocol
-what is school guidelines
-what is school terms and conditions
+what is school guideline
+what is school term and condition
 what is school rule
 what is course policy
 what is course protocol
-what is course guidelines
-what is course terms and conditions
+what is course guideline
+what is course term and condition
 what is course rule
 what is program policy
 what is program protocol
-what is program guidelines
-what is program terms and conditions
+what is program guideline
+what is program term and condition
 what is program rule
 what are university policy
 what are university protocol
-what are university guidelines
-what are university terms and conditions
+what are university guideline
+what are university term and condition
 what are university rule
 what are school policy
 what are school protocol
-what are school guidelines
-what are school terms and conditions
+what are school guideline
+what are school term and condition
 what are school rule
 what are course policy
 what are course protocol
-what are course guidelines
-what are course terms and conditions
+what are course guideline
+what are course term and condition
 what are course rule
 what are program policy
 what are program protocol
-what are program guidelines
-what are program terms and conditions
+what are program guideline
+what are program term and condition
 what are program rule

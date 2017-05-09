@@ -2,7 +2,7 @@
 
 grammar blender;
 
-<objective> = objective | goal | goals | purpose | intent | aim | objectives;
+<objective> = objective | goal | goals | purpose | intent | aim;
 
 <clo> = clo | class learning objective ;
 

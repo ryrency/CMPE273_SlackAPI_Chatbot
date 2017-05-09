@@ -1,5 +1,4 @@
-program timings
-program hours
+program timing
 program hour
 program time
 program start time
@@ -8,9 +7,7 @@ program start
 program end
 program day
 program day of week
-program when
-course timings
-course hours
+course timing
 course hour
 course time
 course start time
@@ -19,9 +16,7 @@ course start
 course end
 course day
 course day of week
-course when
-class timings
-class hours
+class timing
 class hour
 class time
 class start time
@@ -30,9 +25,7 @@ class start
 class end
 class day
 class day of week
-class when
-what program timings
-what program hours
+what program timing
 what program hour
 what program time
 what program start time
@@ -41,9 +34,7 @@ what program start
 what program end
 what program day
 what program day of week
-what program when
-what course timings
-what course hours
+what course timing
 what course hour
 what course time
 what course start time
@@ -52,9 +43,7 @@ what course start
 what course end
 what course day
 what course day of week
-what course when
-what class timings
-what class hours
+what class timing
 what class hour
 what class time
 what class start time
@@ -63,9 +52,7 @@ what class start
 what class end
 what class day
 what class day of week
-what class when
-what's program timings
-what's program hours
+what's program timing
 what's program hour
 what's program time
 what's program start time
@@ -74,9 +61,7 @@ what's program start
 what's program end
 what's program day
 what's program day of week
-what's program when
-what's course timings
-what's course hours
+what's course timing
 what's course hour
 what's course time
 what's course start time
@@ -85,9 +70,7 @@ what's course start
 what's course end
 what's course day
 what's course day of week
-what's course when
-what's class timings
-what's class hours
+what's class timing
 what's class hour
 what's class time
 what's class start time
@@ -96,9 +79,7 @@ what's class start
 what's class end
 what's class day
 what's class day of week
-what's class when
-what is program timings
-what is program hours
+what is program timing
 what is program hour
 what is program time
 what is program start time
@@ -107,9 +88,7 @@ what is program start
 what is program end
 what is program day
 what is program day of week
-what is program when
-what is course timings
-what is course hours
+what is course timing
 what is course hour
 what is course time
 what is course start time
@@ -118,9 +97,7 @@ what is course start
 what is course end
 what is course day
 what is course day of week
-what is course when
-what is class timings
-what is class hours
+what is class timing
 what is class hour
 what is class time
 what is class start time
@@ -129,9 +106,7 @@ what is class start
 what is class end
 what is class day
 what is class day of week
-what is class when
-what are program timings
-what are program hours
+what are program timing
 what are program hour
 what are program time
 what are program start time
@@ -140,9 +115,7 @@ what are program start
 what are program end
 what are program day
 what are program day of week
-what are program when
-what are course timings
-what are course hours
+what are course timing
 what are course hour
 what are course time
 what are course start time
@@ -151,9 +124,7 @@ what are course start
 what are course end
 what are course day
 what are course day of week
-what are course when
-what are class timings
-what are class hours
+what are class timing
 what are class hour
 what are class time
 what are class start time
@@ -162,19 +133,105 @@ what are class start
 what are class end
 what are class day
 what are class day of week
-what are class when
-timings of program
-timings of course
-timings of class
-timings for program
-timings for course
-timings for class
-hours of program
-hours of course
-hours of class
-hours for program
-hours for course
-hours for class
+when program timing
+when program hour
+when program time
+when program start time
+when program end time
+when program start
+when program end
+when program day
+when program day of week
+when course timing
+when course hour
+when course time
+when course start time
+when course end time
+when course start
+when course end
+when course day
+when course day of week
+when class timing
+when class hour
+when class time
+when class start time
+when class end time
+when class start
+when class end
+when class day
+when class day of week
+when is program timing
+when is program hour
+when is program time
+when is program start time
+when is program end time
+when is program start
+when is program end
+when is program day
+when is program day of week
+when is course timing
+when is course hour
+when is course time
+when is course start time
+when is course end time
+when is course start
+when is course end
+when is course day
+when is course day of week
+when is class timing
+when is class hour
+when is class time
+when is class start time
+when is class end time
+when is class start
+when is class end
+when is class day
+when is class day of week
+when's program timing
+when's program hour
+when's program time
+when's program start time
+when's program end time
+when's program start
+when's program end
+when's program day
+when's program day of week
+when's course timing
+when's course hour
+when's course time
+when's course start time
+when's course end time
+when's course start
+when's course end
+when's course day
+when's course day of week
+when's class timing
+when's class hour
+when's class time
+when's class start time
+when's class end time
+when's class start
+when's class end
+when's class day
+when's class day of week
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class
+timing of program
+timing of course
+timing of class
+timing for program
+timing for course
+timing for class
 hour of program
 hour of course
 hour of class
@@ -223,24 +280,12 @@ day of week of class
 day of week for program
 day of week for course
 day of week for class
-when of program
-when of course
-when of class
-when for program
-when for course
-when for class
-what timings of program
-what timings of course
-what timings of class
-what timings for program
-what timings for course
-what timings for class
-what hours of program
-what hours of course
-what hours of class
-what hours for program
-what hours for course
-what hours for class
+what timing of program
+what timing of course
+what timing of class
+what timing for program
+what timing for course
+what timing for class
 what hour of program
 what hour of course
 what hour of class
@@ -289,24 +334,12 @@ what day of week of class
 what day of week for program
 what day of week for course
 what day of week for class
-what when of program
-what when of course
-what when of class
-what when for program
-what when for course
-what when for class
-what's timings of program
-what's timings of course
-what's timings of class
-what's timings for program
-what's timings for course
-what's timings for class
-what's hours of program
-what's hours of course
-what's hours of class
-what's hours for program
-what's hours for course
-what's hours for class
+what's timing of program
+what's timing of course
+what's timing of class
+what's timing for program
+what's timing for course
+what's timing for class
 what's hour of program
 what's hour of course
 what's hour of class
@@ -355,24 +388,12 @@ what's day of week of class
 what's day of week for program
 what's day of week for course
 what's day of week for class
-what's when of program
-what's when of course
-what's when of class
-what's when for program
-what's when for course
-what's when for class
-what is timings of program
-what is timings of course
-what is timings of class
-what is timings for program
-what is timings for course
-what is timings for class
-what is hours of program
-what is hours of course
-what is hours of class
-what is hours for program
-what is hours for course
-what is hours for class
+what is timing of program
+what is timing of course
+what is timing of class
+what is timing for program
+what is timing for course
+what is timing for class
 what is hour of program
 what is hour of course
 what is hour of class
@@ -421,24 +442,12 @@ what is day of week of class
 what is day of week for program
 what is day of week for course
 what is day of week for class
-what is when of program
-what is when of course
-what is when of class
-what is when for program
-what is when for course
-what is when for class
-what are timings of program
-what are timings of course
-what are timings of class
-what are timings for program
-what are timings for course
-what are timings for class
-what are hours of program
-what are hours of course
-what are hours of class
-what are hours for program
-what are hours for course
-what are hours for class
+what are timing of program
+what are timing of course
+what are timing of class
+what are timing for program
+what are timing for course
+what are timing for class
 what are hour of program
 what are hour of course
 what are hour of class
@@ -487,9 +496,189 @@ what are day of week of class
 what are day of week for program
 what are day of week for course
 what are day of week for class
-what are when of program
-what are when of course
-what are when of class
-what are when for program
-what are when for course
-what are when for class
+when timing of program
+when timing of course
+when timing of class
+when timing for program
+when timing for course
+when timing for class
+when hour of program
+when hour of course
+when hour of class
+when hour for program
+when hour for course
+when hour for class
+when time of program
+when time of course
+when time of class
+when time for program
+when time for course
+when time for class
+when start time of program
+when start time of course
+when start time of class
+when start time for program
+when start time for course
+when start time for class
+when end time of program
+when end time of course
+when end time of class
+when end time for program
+when end time for course
+when end time for class
+when start of program
+when start of course
+when start of class
+when start for program
+when start for course
+when start for class
+when end of program
+when end of course
+when end of class
+when end for program
+when end for course
+when end for class
+when day of program
+when day of course
+when day of class
+when day for program
+when day for course
+when day for class
+when day of week of program
+when day of week of course
+when day of week of class
+when day of week for program
+when day of week for course
+when day of week for class
+when is timing of program
+when is timing of course
+when is timing of class
+when is timing for program
+when is timing for course
+when is timing for class
+when is hour of program
+when is hour of course
+when is hour of class
+when is hour for program
+when is hour for course
+when is hour for class
+when is time of program
+when is time of course
+when is time of class
+when is time for program
+when is time for course
+when is time for class
+when is start time of program
+when is start time of course
+when is start time of class
+when is start time for program
+when is start time for course
+when is start time for class
+when is end time of program
+when is end time of course
+when is end time of class
+when is end time for program
+when is end time for course
+when is end time for class
+when is start of program
+when is start of course
+when is start of class
+when is start for program
+when is start for course
+when is start for class
+when is end of program
+when is end of course
+when is end of class
+when is end for program
+when is end for course
+when is end for class
+when is day of program
+when is day of course
+when is day of class
+when is day for program
+when is day for course
+when is day for class
+when is day of week of program
+when is day of week of course
+when is day of week of class
+when is day of week for program
+when is day of week for course
+when is day of week for class
+when's timing of program
+when's timing of course
+when's timing of class
+when's timing for program
+when's timing for course
+when's timing for class
+when's hour of program
+when's hour of course
+when's hour of class
+when's hour for program
+when's hour for course
+when's hour for class
+when's time of program
+when's time of course
+when's time of class
+when's time for program
+when's time for course
+when's time for class
+when's start time of program
+when's start time of course
+when's start time of class
+when's start time for program
+when's start time for course
+when's start time for class
+when's end time of program
+when's end time of course
+when's end time of class
+when's end time for program
+when's end time for course
+when's end time for class
+when's start of program
+when's start of course
+when's start of class
+when's start for program
+when's start for course
+when's start for class
+when's end of program
+when's end of course
+when's end of class
+when's end for program
+when's end for course
+when's end for class
+when's day of program
+when's day of course
+when's day of class
+when's day for program
+when's day for course
+when's day for class
+when's day of week of program
+when's day of week of course
+when's day of week of class
+when's day of week for program
+when's day of week for course
+when's day of week for class
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class
+program
+course
+class
+when program
+when course
+when class
+when is program
+when is course
+when is class
+when's program
+when's course
+when's class

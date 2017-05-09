@@ -39,7 +39,7 @@ for filename in os.listdir(test_dir):
             test_data.append(line)
             test_targets.append(target_index)
 
-text_clf = Pipeline([('vect', CountVectorizer(min_df = 0)),
+text_clf = Pipeline([('vect', CountVectorizer(min_df = 0, ngram_range=(1, 3))),
                      ('tfidf', TfidfTransformer()),
                      ('clf', SGDClassifier(loss='hinge', penalty='l2', alpha=1e-3, n_iter=5, random_state=42))])
 text_clf = text_clf.fit(train_data,train_targets)

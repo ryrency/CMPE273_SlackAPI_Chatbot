@@ -1,106 +1,106 @@
-what's name of teaching
-who supervisor
-what name of supervisor
-what is name of faculty
-what name of instructor
-who is faculty member
-what is teaching name
+lecturer
+name of professor
+lecturer name
+what teacher name
 what faculty member name
-who is supervisor
-who professor
-who prof
-supervisor
-who is prof
-what is name of teacher
-name of prof
-teaching
-who is professor
-name of faculty member
-who is faculty
-who lecturer
-what name of teaching
-what adviser name
-what is name of educator
-what is name of professor
-faculty member name
-what's educator name
-who's faculty member
-professor
-name of teacher
-who is teaching
-what name of adviser
-what's name of educator
-what professor name
-what is name of supervisor
-who is adviser
-who's adviser
-what is faculty name
-what educator name
-name of lecturer
-adviser name
+what's faculty name
+educator
+what is name of faculty member
+what is name of instructor
+name of teaching
+what is name of prof
+what is faculty member name
 who is instructor
-what's faculty member name
 professor name
+what's instructor name
+who teacher
+name of lecturer
+who lecturer
+who professor
+educator name
+name of faculty member
+what's name of teaching
+teaching
+what lecturer name
+who is supervisor
+what is name of adviser
+who's faculty
+what is name of lecturer
+teacher
+prof
+who faculty member
+what is name of educator
+name of educator
+name of faculty
+what's name of professor
+what's name of instructor
+supervisor
+who's educator
+what name of professor
+what educator name
+what is name of professor
+what is educator name
+who's prof
+prof name
+faculty member name
+what name of lecturer
+who adviser
+instructor name
+what's name of lecturer
+name of adviser
+what's faculty member name
+what's teacher name
+who's lecturer
+what is name of teacher
+what name of teacher
+what name of faculty member
 what name of educator
-what faculty name
+what's name of faculty member
+what's supervisor name
+who's instructor
+what is adviser name
+professor
+supervisor name
+who teaching
+what name of teaching
+what is teaching name
+what's prof name
+name of instructor
+what's teaching name
+who is lecturer
+what's name of prof
+teaching name
+name of prof
+who is faculty
+what name of supervisor
+faculty
+who is teaching
+what is professor name
+what name of instructor
+who's teaching
+
+adviser name
+what is faculty name
 what's lecturer name
 what prof name
-who adviser
-who is lecturer
-what is educator name
-faculty member
-prof
-who's teacher
-what teacher name
-what is faculty member name
-what's name of supervisor
-name of educator
-what is adviser name
-adviser
-what name of professor
-what is lecturer name
-what supervisor name
-name of professor
-who is educator
-what's name of instructor
-teacher
-who educator
-what is name of prof
-name of teaching
-lecturer name
-what name of lecturer
-what instructor name
-what's instructor name
-teaching name
-name of faculty
-instructor name
-what name of prof
-who instructor
-what is name of adviser
-what lecturer name
-what name of teacher
-who faculty member
-who's prof
-supervisor name
-faculty
-what's name of lecturer
+what is prof name
+who is teacher
 who faculty
-who's faculty
-what is name of teaching
-what's teaching name
-who's teaching
-instructor
-what's faculty name
-who's supervisor
-prof name
-educator name
-teacher name
-who teaching
-what is name of faculty member
-what is instructor name
-what is supervisor name
+who's adviser
+what's name of adviser
 what is teacher name
-lecturer
-name of supervisor
-what teaching name
 who's professor
+what faculty name
+who is faculty member
+adviser
+what name of adviser
+who educator
+what professor name
+what's name of faculty
+instructor
+what's name of supervisor
+faculty member
+what adviser name
+what is lecturer name
+name of supervisor
+who supervisor

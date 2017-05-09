@@ -1,100 +1,137 @@
-hours for course
-what are program timings
-what are program end time
-what's class day
-course day
-what is program end
-what's timings for course
-timings for program
-what timings of class
-program timings
-what are course start time
-what class start
-what are end time of class
-what is class timings
-what is course end
-what is timings of course
-what are program time
-what is hour of course
-what's end time for program
-what are course end
-what are hours of course
-what when of class
-what's program when
-what is class start
-what is timings of program
-what is program when
-what are hours of program
-what is program end time
-what hour of course
-what's course hours
-class time
-what hours for class
-what's day of course
-program start
-hours for class
-what is start time of course
-what are day for program
-what course hour
-what is hour for program
-what's start time for class
-what is hours for course
-what is hour of class
-what start of program
-course end
-what are class when
-what day for program
-what's hour of course
-what is course when
-start of course
-what are hour of course
-what program start
-course start
-what is when for course
-what is course day of week
-what are hour for program
-what are day of course
-what's start of course
-what are hours for course
-what are hours for program
-class start
-what is program hours
-what start time of program
-what's start for class
-what's hour for course
-what are hour of class
-what are timings of class
-what hours for course
-what are course timings
-what start time of class
-end for program
-what day of week of course
-what's course end time
-what are end for course
-what class when
-what end of program
-what are end time for course
-what's program end time
-what course start time
-what is course end time
-what are hours for class
-what's hours for class
-what program end
-what hours of course
-what is end for program
-what's class end
-what's program hours
-what course end time
-what are course hour
-what day of week for course
-what's end time for class
-program day of week
-course timings
-end for class
-what are time for program
-what's course end
-what are end for program
-what when for class
-what start for class
-what end time for program
+when program start
+start time for program
+hour for course
+when class day of week
+when's class end
+when hour of course
 what is day of course
+end of class
+what's class start time
+what time for class
+when is day of course
+when program time
+when program day
+when is day of week for course
+what start time of class
+what's program end time
+what is program day
+when is course end time
+when's end time of program
+what is hour of course
+when's course hour
+when is program end
+class time
+what are time of class
+what's day for class
+when's end time of course
+when end time for course
+class end time
+when's program time
+when's end time for course
+what end time for course
+when's day of course
+what is hour for course
+when is end time of course
+when course
+what's program start time
+when's class
+what are course end
+when is course start
+when's class day
+what are day for class
+what's class timing
+when timing of course
+when is start time of course
+when's course day
+what day of week for program
+what are timing for class
+day of week for program
+when is end of course
+when day of week for program
+what are start of class
+what end for class
+what's start time of program
+what class day of week
+what time of class
+when course start time
+what's course hour
+what are day of week for class
+when time of course
+what is class time
+when is day of week of class
+when course end time
+what's program day of week
+what timing for class
+when end for class
+what are class day
+when class timing
+when is program day of week
+program time
+what's timing of course
+start for course
+what are start for course
+what is day of class
+when course day
+what are start time for class
+when hour of program
+what hour for program
+class start time
+when's hour for program
+what program start time
+hour of program
+when's start for class
+timing of course
+when's start of program
+when is course start time
+what are hour of program
+program end time
+what are class time
+course start
+when day of week of class
+what is program hour
+what are day of week of class
+what is end time of program
+when's program end
+what day of week for class
+when is day of class
+when class
+what's program time
+when timing for course
+what are start for program
+when's time of program
+what time for program
+what's class start
+when's timing for program
+when class
+what is program end time
+when program
+when's program
+program day of week
+when is start time for course
+what's course start time
+when's timing of class
+what program day
+what are day of program
+what is time of program
+what timing for course
+what is time for program
+what program time
+what's end time of class
+timing for class
+what's end for class
+program timing
+class
+what course time
+day of week of class
+when is class
+when is start time of class
+what's class day
+when's day of week for class
+when's day of week of program
+when end time of course
+day of week for course
+what is end time of course
+what are end time for class
+when is day for course
+what's start of program
+when's class time

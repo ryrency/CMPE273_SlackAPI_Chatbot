@@ -4,11 +4,20 @@ grammar slackbot;
 
 <course> = program | course | class;
 
-<location> =  location | physical location | room_no | room number | room no | building | whereabouts;
+<location> =  location | physical location | room_no | room number | room no | building | whereabout | classroom;
 
 <of> = of ;
-<where> = where | where is;
+<what> = what | what is | what's;
+<where> = where | where is | where's;
 
-public <command> = [<where>] <location> <of> <course> ;
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> = [<what>] <location> [<of>] <course>;
+public <command> =  [<what>] <course> <location>;
 
-public <command> =  [<where>] <course> <location> ;
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];
+public <command> = <where> <course> [<location>];

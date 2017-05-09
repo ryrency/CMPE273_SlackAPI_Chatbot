@@ -34,12 +34,6 @@ aim of module
 aim of course
 aim of technology
 aim of class
-objectives of
-objectives of program
-objectives of module
-objectives of course
-objectives of technology
-objectives of class
 what objective of
 what objective of program
 what objective of module
@@ -76,12 +70,6 @@ what aim of module
 what aim of course
 what aim of technology
 what aim of class
-what objectives of
-what objectives of program
-what objectives of module
-what objectives of course
-what objectives of technology
-what objectives of class
 what's objective of
 what's objective of program
 what's objective of module
@@ -118,12 +106,6 @@ what's aim of module
 what's aim of course
 what's aim of technology
 what's aim of class
-what's objectives of
-what's objectives of program
-what's objectives of module
-what's objectives of course
-what's objectives of technology
-what's objectives of class
 what is objective of
 what is objective of program
 what is objective of module
@@ -160,152 +142,126 @@ what is aim of module
 what is aim of course
 what is aim of technology
 what is aim of class
-what is objectives of
-what is objectives of program
-what is objectives of module
-what is objectives of course
-what is objectives of technology
-what is objectives of class
 program objective
 program goal
 program goals
 program purpose
 program intent
 program aim
-program objectives
 module objective
 module goal
 module goals
 module purpose
 module intent
 module aim
-module objectives
 course objective
 course goal
 course goals
 course purpose
 course intent
 course aim
-course objectives
 technology objective
 technology goal
 technology goals
 technology purpose
 technology intent
 technology aim
-technology objectives
 class objective
 class goal
 class goals
 class purpose
 class intent
 class aim
-class objectives
 what program objective
 what program goal
 what program goals
 what program purpose
 what program intent
 what program aim
-what program objectives
 what module objective
 what module goal
 what module goals
 what module purpose
 what module intent
 what module aim
-what module objectives
 what course objective
 what course goal
 what course goals
 what course purpose
 what course intent
 what course aim
-what course objectives
 what technology objective
 what technology goal
 what technology goals
 what technology purpose
 what technology intent
 what technology aim
-what technology objectives
 what class objective
 what class goal
 what class goals
 what class purpose
 what class intent
 what class aim
-what class objectives
 what's program objective
 what's program goal
 what's program goals
 what's program purpose
 what's program intent
 what's program aim
-what's program objectives
 what's module objective
 what's module goal
 what's module goals
 what's module purpose
 what's module intent
 what's module aim
-what's module objectives
 what's course objective
 what's course goal
 what's course goals
 what's course purpose
 what's course intent
 what's course aim
-what's course objectives
 what's technology objective
 what's technology goal
 what's technology goals
 what's technology purpose
 what's technology intent
 what's technology aim
-what's technology objectives
 what's class objective
 what's class goal
 what's class goals
 what's class purpose
 what's class intent
 what's class aim
-what's class objectives
 what is program objective
 what is program goal
 what is program goals
 what is program purpose
 what is program intent
 what is program aim
-what is program objectives
 what is module objective
 what is module goal
 what is module goals
 what is module purpose
 what is module intent
 what is module aim
-what is module objectives
 what is course objective
 what is course goal
 what is course goals
 what is course purpose
 what is course intent
 what is course aim
-what is course objectives
 what is technology objective
 what is technology goal
 what is technology goals
 what is technology purpose
 what is technology intent
 what is technology aim
-what is technology objectives
 what is class objective
 what is class goal
 what is class goals
 what is class purpose
 what is class intent
 what is class aim
-what is class objectives
 clo
 class learning objective
 what clo

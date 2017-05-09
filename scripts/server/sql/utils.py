@@ -84,7 +84,11 @@ def singularize_words(text):
     words = text.split(" ")
     mapped_words = []
     for word in words:
-        mapped_words.append(singularize(word))
+        if word == 'class':
+            # singularize wrongly singularizes class to clas
+            mapped_words.append(word)
+        else:
+            mapped_words.append(singularize(word))
 
     return " ".join(mapped_words)
 

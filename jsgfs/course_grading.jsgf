@@ -2,7 +2,7 @@
 
 grammar slackbot;
 
-<task> = pop quizzes | quizzes | quiz | lab | assignment | lab | assignments | mid-term | exam | final-exam | mid term | final exam | class project | class_project | final project | project | course | class ;
+<task> = pop quiz | quiz | lab | assignment | lab | mid-term | exam | final-exam | mid term | final exam | class project | class_project | final project | project | course | class ;
 
 <grading> = grading | grading system  | grading criteria | weightage | grading policy | grading weightage ;
 

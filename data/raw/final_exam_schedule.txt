@@ -1,147 +1,75 @@
 date final
 date final exam
-date finals
-date final exams
 date of final
 date of final exam
-date of finals
-date of final exams
 date for final
 date for final exam
-date for finals
-date for final exams
 time final
 time final exam
-time finals
-time final exams
 time of final
 time of final exam
-time of finals
-time of final exams
 time for final
 time for final exam
-time for finals
-time for final exams
 schedule final
 schedule final exam
-schedule finals
-schedule final exams
 schedule of final
 schedule of final exam
-schedule of finals
-schedule of final exams
 schedule for final
 schedule for final exam
-schedule for finals
-schedule for final exams
 timeline final
 timeline final exam
-timeline finals
-timeline final exams
 timeline of final
 timeline of final exam
-timeline of finals
-timeline of final exams
 timeline for final
 timeline for final exam
-timeline for finals
-timeline for final exams
 when date final
 when date final exam
-when date finals
-when date final exams
 when date of final
 when date of final exam
-when date of finals
-when date of final exams
 when date for final
 when date for final exam
-when date for finals
-when date for final exams
 when time final
 when time final exam
-when time finals
-when time final exams
 when time of final
 when time of final exam
-when time of finals
-when time of final exams
 when time for final
 when time for final exam
-when time for finals
-when time for final exams
 when schedule final
 when schedule final exam
-when schedule finals
-when schedule final exams
 when schedule of final
 when schedule of final exam
-when schedule of finals
-when schedule of final exams
 when schedule for final
 when schedule for final exam
-when schedule for finals
-when schedule for final exams
 when timeline final
 when timeline final exam
-when timeline finals
-when timeline final exams
 when timeline of final
 when timeline of final exam
-when timeline of finals
-when timeline of final exams
 when timeline for final
 when timeline for final exam
-when timeline for finals
-when timeline for final exams
 when is date final
 when is date final exam
-when is date finals
-when is date final exams
 when is date of final
 when is date of final exam
-when is date of finals
-when is date of final exams
 when is date for final
 when is date for final exam
-when is date for finals
-when is date for final exams
 when is time final
 when is time final exam
-when is time finals
-when is time final exams
 when is time of final
 when is time of final exam
-when is time of finals
-when is time of final exams
 when is time for final
 when is time for final exam
-when is time for finals
-when is time for final exams
 when is schedule final
 when is schedule final exam
-when is schedule finals
-when is schedule final exams
 when is schedule of final
 when is schedule of final exam
-when is schedule of finals
-when is schedule of final exams
 when is schedule for final
 when is schedule for final exam
-when is schedule for finals
-when is schedule for final exams
 when is timeline final
 when is timeline final exam
-when is timeline finals
-when is timeline final exams
 when is timeline of final
 when is timeline of final exam
-when is timeline of finals
-when is timeline of final exams
 when is timeline for final
 when is timeline for final exam
-when is timeline for finals
-when is timeline for final exams
 final date
 final time
 final schedule
@@ -150,14 +78,6 @@ final exam date
 final exam time
 final exam schedule
 final exam timeline
-finals date
-finals time
-finals schedule
-finals timeline
-final exams date
-final exams time
-final exams schedule
-final exams timeline
 when final date
 when final time
 when final schedule
@@ -166,14 +86,6 @@ when final exam date
 when final exam time
 when final exam schedule
 when final exam timeline
-when finals date
-when finals time
-when finals schedule
-when finals timeline
-when final exams date
-when final exams time
-when final exams schedule
-when final exams timeline
 when is final date
 when is final time
 when is final schedule
@@ -182,11 +94,3 @@ when is final exam date
 when is final exam time
 when is final exam schedule
 when is final exam timeline
-when is finals date
-when is finals time
-when is finals schedule
-when is finals timeline
-when is final exams date
-when is final exams time
-when is final exams schedule
-when is final exams timeline

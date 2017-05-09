@@ -1,6 +1,6 @@
 grammar slackbot;
 
-<thanks> = thanks | thank you | thanks a lot | thanks a ton | greatful;
+<thanks> = thank | thank you | thank a lot | thank a ton | greatful;
 <bye> = adios | bye | goodbye | see you | see ya | ttyl ;
 
 public <command> = <thanks> ;

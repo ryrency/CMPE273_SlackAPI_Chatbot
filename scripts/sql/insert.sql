@@ -113,8 +113,8 @@ VALUES(1,"Be able to communicate effectively, in both oral and written forms.");
 
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(1,1,"6:00PM","8.45PM","SH100","https://sjsu.instructure.com/courses","Please check college website for details","Web Services - by Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju (2003), Enterprise Integration Patterns - by Gregor Hohpe and Bobby Woolf (2003), Restful Web Services, by Leonard Richardson, Sam Ruby and David Hansson (2007)");
+class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
+VALUES(1,1,"6:00PM","8.45PM","SH100","https://sjsu.instructure.com/courses","Please check college website for details","Web Services - by Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju (2003), Enterprise Integration Patterns - by Gregor Hohpe and Bobby Woolf (2003), Restful Web Services, by Leonard Richardson, Sam Ruby and David Hansson (2007)" ,"Wednesday");
 
 
 
@@ -252,8 +252,8 @@ VALUES(2,"Ability to analyze software technologies, standards, and architectures
 
 
 INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material)
-VALUES(2,2,"9:15AM","12.00PM","ENG 337","http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/","Please check college website for details.","HTTP 1.1 - RFC 2616");
+class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
+VALUES(2,2,"9:15AM","12.00PM","ENG 337","http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/","Please check college website for details.","HTTP 1.1 - RFC 2616" ,"Saturday");
 
 
 /*******************************************************************************************************************************************************************/
