@@ -6,7 +6,7 @@ sys.path.append('./scripts/classifier')
 sys.path.append('./scripts/server/sql')
 from classifier import Classifier
 import utils, course, course_section, program_outcomes, learning_objectives, lab_schedule, \
-    assignment_schedule, project_schedule, mid_term_schedule, final_exam_schedule, \
+    assignment_schedule, greeting, project_schedule, mid_term_schedule, final_exam_schedule, \
     course_grading, course_name, class_location, course_prereq, course_timings, course_website, \
     instructor_contact, instructor_email, instructor_name, instructor_office_hours, instructor_office_location, \
     instructor_phone, university_policy , reference_materials
@@ -36,6 +36,11 @@ def _get_answer(text):
     text = utils.singularize_words(text)
     label = txt_clf.classify(text)
 
+
+    if label == 'hello':
+        return greeting.get_greeting(text)
+    if label == 'bye':
+        return greeting.get_goodbye(text)
     if label == 'instructor_contact':
         return instructor_contact.get_contact(text)
     if label == 'instructor_email':
