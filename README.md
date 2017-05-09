@@ -2,6 +2,9 @@
 
 # Slack API Chatbot
 
+### Team Members:
+Shefali Munjal, Rency Joseph, Narasa Kumar and Ritu Singh.
+
 ### Description: 
 
 Using Slack channel as GUI for users, this chatbot uses Machine Learning models to answer user's questions and answers accurately. Our reference has been http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html.
