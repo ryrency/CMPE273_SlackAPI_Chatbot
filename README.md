@@ -13,15 +13,21 @@ Using Slack channel as GUI for users, this chatbot uses Machine Learning models 
 #### JSpeech Grammar Format
 	The chatbot was trained by a model with questions were generated to JSpeech Grammar Format (JSGF).
 
-	The JSpeech Grammar Format (JSGF) is a platform-independent, vendor-independent textual representation of grammars for use in speech recognition. Grammars are used by speech recognizers to determine what the recognizer should listen for, and so describe the utterances a user may say. JSGF adopts the style and conventions of the JavaTM Programming Language in addition to use of traditional grammar notations.
+	The JSpeech Grammar Format (JSGF) is a platform-independent, vendor-independent textual representation of grammars for use in speech recognition. 
+	Grammars are used by speech recognizers to determine what the recognizer should listen for, and so describe the utterances a user may say. 
+	JSGF adopts the style and conventions of the JavaTM Programming Language in addition to use of traditional grammar notations.
 #### Conversational Bot
-	 Remembers the class, and user need not to specify course name each time. First time, the user asks any question, he needs to mention the course and section name. Thereafter, the system remembers the context and he does not need to specify the same again unless he needs details for a different course/section. 
+	 Remembers the class, and user need not to specify course name each time. First time, the user asks any question, he needs to mention the course and section name. 
+	 Thereafter, the system remembers the context and he does not need to specify the same again unless he needs details for a different course/section. 
 #### Support of more than one greensheet
-	The input to this system is the greensheet data from MySQL database. User can train this system with any number of greensheets. Currently the system has been trained for data from 2 greensheets -CMPE27301 and CMPE272-2.
+	The input to this system is the greensheet data from MySQL database. User can train this system with any number of greensheets. 
+	Currently the system has been trained for data from 2 greensheets -CMPE27301 and CMPE272-2.
 #### Voice integration with MAC
-	Users can use their MAC inbuilt microphone to ask chatbot as voice input. The server listens to microphone and processes in the server, replies back to slack channel.
+	Users can use their MAC inbuilt microphone to ask chatbot as voice input. The server listens to microphone and processes in the server, 
+	replies back to slack channel.
 #### Scalable
-	The python server is deployed on EC2 and it is highly scalable. The database used was mySQL on Amazon RDS and is capable of serving millions of requests concurrently.
+	The python server is deployed on EC2 and it is highly scalable. The database used was mySQL on Amazon RDS and is capable of serving millions of 
+	requests concurrently.
 
 	
 
