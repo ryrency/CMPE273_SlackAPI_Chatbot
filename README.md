@@ -105,3 +105,7 @@ python scripts/server/jarvis.py
 ```
 
 Now, the chatbot is active and add the slack bot to any slack channel. To invoke the chatbot, use @jarvis (or @{chatbot_name} for a diffrent chatbot) to ask any question. The chatbot is completely conversational, meaning it remembers the course name for all next set of classes. Use reset keyword to reset the previous conversation.
+
+
+##### Check a quick demo
+https://www.youtube.com/watch?v=eHA4Is6DFzw
