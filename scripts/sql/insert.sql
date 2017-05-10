@@ -112,9 +112,12 @@ VALUES(1,"Be able to communicate effectively, in both oral and written forms.");
 
 
 
-INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
-VALUES(1,1,"6:00PM","8.45PM","SH100","https://sjsu.instructure.com/courses","Please check college website for details","Web Services - by Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju (2003), Enterprise Integration Patterns - by Gregor Hohpe and Bobby Woolf (2003), Restful Web Services, by Leonard Richardson, Sam Ruby and David Hansson (2007)" ,"Wednesday");
+INSERT INTO course_section_details(course_section_id,instr_id,class_start_time, class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
+VALUES(1,1,"6:00PM","8.45PM","SH100",
+"https://sjsu.instructure.com/courses",
+"Please check college website for details",
+"Web Services - by Gustavo Alonso, Fabio Casati, Harumi Kuno and Vijay Machiraju (2003), Enterprise Integration Patterns - by Gregor Hohpe and Bobby Woolf (2003), Restful Web Services, by Leonard Richardson, Sam Ruby and David Hansson (2007)" ,
+"Wednesday");
 
 
 
@@ -168,9 +171,9 @@ INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_ty
 VALUES(2, "2017-04-26 11:59:00","Lab: CURL", 0);
 INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
 VALUES(2, "2017-05-03 11:59:00","Lab: Youtube tryout", 0);
-INSERT INTO course_topics(course_section_id,lecture_date,topic)
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
 VALUES(2,"2017-05-20 09:10:00","Final Exam",4);
-INSERT INTO course_topics(course_section_id,lecture_date,topic)
+INSERT INTO course_schedules	(course_section_id, due_date, activity, activity_type)
 VALUES(2,"2017-03-24 09:10:00","Mid Term",3);
 
 
@@ -257,9 +260,12 @@ VALUES(2,"Ability to analyze software technologies, standards, and architectures
 
 
 
-INSERT INTO course_section_details(course_section_id,instr_id,class_start_time,
-class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
-VALUES(2,2,"9:15AM","12.00PM","ENG 337","http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/","Please check college website for details.","HTTP 1.1 - RFC 2616" ,"Saturday");
+INSERT INTO course_section_details(course_section_id,instr_id,class_start_time, class_end_time, class_location,course_website,add_drop_detail,reference_material,day_of_week)
+VALUES(2,2,"9:15AM","12.00PM","ENG 337",
+"http://openloop.com/education/classes/sjsu_engr/engr_ent_swplatforms/",
+"Please check college website for details.",
+"HTTP 1.1 - RFC 2616" ,
+"Saturday");
 
 
 /*******************************************************************************************************************************************************************/
