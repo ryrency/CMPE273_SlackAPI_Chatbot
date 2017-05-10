@@ -25,13 +25,9 @@ Using Slack channel as GUI for users, this chatbot uses Machine Learning models 
 #### Support of more than one greensheet
 	The input to this system is the greensheet data from MySQL database. User can train this system with any number of greensheets. 
 	Currently the system has been trained for data from 2 greensheets -CMPE27301 and CMPE272-2.
-#### Voice integration with MAC
-	Users can use their MAC inbuilt microphone to ask chatbot as voice input. The server listens to microphone and processes in the server, 
-	replies back to slack channel.
 #### Scalable
 	The python server is deployed on EC2 and it is highly scalable. The database used was mySQL on Amazon RDS and is capable of serving millions of 
 	requests concurrently.
-
 	
 
 
