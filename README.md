@@ -83,21 +83,20 @@ mysql -h $DB_HOST -u $DB_USER < scripts/sql/insert.sql
 ```
 
 #### Install libraries for voice based chat
-
-	#####1. Packages to make bot listen:
-		```bash
-			pip install SpeechRecognition
-			sudo apt install linuxbrew-wrapper
-			brew install portaudio && sudo brew link portaudio
-			pip install pyaudio
-		```
+#####1. Packages to make bot listen:
+```bash
+pip install SpeechRecognition
+sudo apt install linuxbrew-wrapper
+brew install portaudio && sudo brew link portaudio
+pip install pyaudio
+```
 			
-	#####2. Packages to make bot talk:
-		```bash
-		sudo pip install gtts
-		sudo apt-get install mpg321
-		brew install portaudio && sudo brew link 
-		```
+#####2. Packages to make bot talk:
+```bash
+sudo pip install gtts
+sudo apt-get install mpg321
+brew install portaudio && sudo brew link 
+```
 
 ### Run the chatbot server
 
