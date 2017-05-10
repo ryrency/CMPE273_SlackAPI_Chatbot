@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c82d19bc-c9c3-41ba-b698-4c2f18411bab" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/clf.model" afterPath="$PROJECT_DIR$/models/clf.model" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/server/sql/class_location.py" afterPath="$PROJECT_DIR$/scripts/server/sql/class_location.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/server/sql/course_timings.py" afterPath="$PROJECT_DIR$/scripts/server/sql/course_timings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jsgfs/course_prereq.jsgf" afterPath="$PROJECT_DIR$/jsgfs/course_prereq.jsgf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scripts/classifier/train.py" afterPath="$PROJECT_DIR$/scripts/classifier/train.py" />
     </list>
     <ignored path="CMPE273_SlackAPI_Chatbot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,8 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="course_grading.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="course_grading.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/server/sql/course_grading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/classifier/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30481285">
+              <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_website.jsgf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgfs/course_website.jsgf">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -68,8 +89,18 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="29.666666">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="9" column="154" selection-start-line="9" selection-start-column="154" selection-end-line="9" selection-end-column="236" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="course_prereq.jsgf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jsgfs/course_prereq.jsgf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="142" selection-start-line="6" selection-start-column="142" selection-end-line="6" selection-end-column="142" />
               <folding />
             </state>
           </provider>
@@ -80,36 +111,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="251" column="0" selection-start-line="251" selection-start-column="0" selection-end-line="251" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="program_outcome.jsgf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgfs/program_outcome.jsgf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project_schedule.jsgf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgfs/project_schedule.jsgf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reference_materials.jsgf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jsgfs/reference_materials.jsgf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -166,14 +167,12 @@
         <option value="$PROJECT_DIR$/jsgfs/course_name.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/add_drop.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/instructor_office_location.jsgf" />
-        <option value="$PROJECT_DIR$/scripts/classifier/train.py" />
         <option value="$PROJECT_DIR$/scripts/server/sql/utils.py" />
         <option value="$PROJECT_DIR$/scripts/classifier/classifier.py" />
         <option value="$PROJECT_DIR$/jsgfs/bye.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/class_location.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/course_grading.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/course_learning_objectives.jsgf" />
-        <option value="$PROJECT_DIR$/jsgfs/course_prereq.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/course_timings.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/final_exam_schedule.jsgf" />
         <option value="$PROJECT_DIR$/jsgfs/hello.jsgf" />
@@ -184,6 +183,8 @@
         <option value="$PROJECT_DIR$/jsgfs/university_policy.jsgf" />
         <option value="$PROJECT_DIR$/scripts/server/sql/course_timings.py" />
         <option value="$PROJECT_DIR$/scripts/server/sql/class_location.py" />
+        <option value="$PROJECT_DIR$/scripts/classifier/train.py" />
+        <option value="$PROJECT_DIR$/jsgfs/course_prereq.jsgf" />
       </list>
     </option>
   </component>
@@ -736,16 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scripts/classifier/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="54" selection-start-line="43" selection-start-column="49" selection-end-line="43" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/server/sql/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -812,26 +803,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsgfs/course_prereq.jsgf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="130" selection-start-line="6" selection-start-column="130" selection-end-line="6" selection-end-column="130" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jsgfs/course_topics.jsgf">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jsgfs/course_website.jsgf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -956,14 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.666666">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sql/insert.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -992,6 +959,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="9" column="154" selection-start-line="9" selection-start-column="154" selection-end-line="9" selection-end-column="236" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgfs/course_website.jsgf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jsgfs/course_prereq.jsgf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="142" selection-start-line="6" selection-start-column="142" selection-end-line="6" selection-end-column="142" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/classifier/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30481285">
+          <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
           <folding />
         </state>
       </provider>
