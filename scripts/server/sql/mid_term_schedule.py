@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_mid_term_schedule(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,8 +19,9 @@ def get_mid_term_schedule(text):
     if not mid_term_schedules or len(mid_term_schedules) <= 0:
         return "Sorry no mid_term schedules found for " + course_section_name
     else:
-        return course_section_name + " mid term exam will be held on " + str(mid_term_schedules[0]['due_date'])
-        
+        response["due_date"] = mid_term_schedules[0]['due_date']
+        return response
+
 def _get_mid_term_schedules(course_section_id):
     #get instructor now
     connection = get_mysql_connection()

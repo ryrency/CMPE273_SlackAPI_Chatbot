@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_course_grading_details(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -23,7 +24,9 @@ def get_course_grading_details(text):
         if activity_type >= 0:
             for c_w in course_weights:
                 if c_w['activity_type'] == activity_type:
-                    return "As per the grading policy of " + course_section_name + ", the weightage for " + c_w['activity'].lower() + " will be " + c_w['weight']
+                    response["activity"] = c_w['activity'].lower()
+                    response["weightage"] = c_w['weight']
+                    return response
 
             # if no matching activity found, return the grading policy for course
             weights = {}

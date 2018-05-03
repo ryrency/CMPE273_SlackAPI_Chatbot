@@ -3,6 +3,7 @@ from course_section import *
 
 def get_timings(text):
     course = get_course(text)
+    response = {}
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
 
@@ -20,6 +21,7 @@ def get_timings(text):
 
     if not course_section_details or not d_o_w or not c_s_t or not c_e_t:
         return "Sorry I don't know about " + course_section_name + " timings"
-
-    return course_section_name + " classes will be held every week on " + \
-           d_o_w + ", " + c_s_t + "-" + c_e_t
+    response["day"] = d_o_w
+    response["class_start_time"] = c_s_t
+    response["class_end_time"] = c_e_t
+    return response

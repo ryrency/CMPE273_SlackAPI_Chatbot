@@ -12,6 +12,7 @@ import utils, course, course_section, program_outcomes, learning_objectives, lab
 
 txt_clf = Classifier()
 app = Flask(__name__)
+response = {}
 
 # http://localhost:5000/classify?text=who is doing it
 @app.route("/classify")
@@ -77,8 +78,9 @@ def _get_answer(text):
     else:
         return _prepare_response(24, "Sorry I don't understand.")
 
-def _prepare_response(categoryType, response_text):
-    return json.dumps({"categoryType": categoryType, "responseText": response_text})
+def _prepare_response(categoryType, category_response):
+    category_response['categoryType'] = categoryType
+    return json.dumps(category_response)
 
 if __name__ == "__main__":
     app.run(debug=True,host='localhost')

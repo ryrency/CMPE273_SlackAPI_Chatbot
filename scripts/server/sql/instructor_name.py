@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_name(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,7 +19,8 @@ def get_name(text):
     if not instructor:
         return "Sorry no instructor details found for " + course_section_name
     else:
-        return instructor['name'] + " is the instructor for " + course_section_name
+        response["instructor_name"] = instructor['name']
+        return response
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)

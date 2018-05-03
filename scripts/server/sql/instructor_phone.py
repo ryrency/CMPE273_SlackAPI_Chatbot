@@ -5,6 +5,7 @@ import json
 
 def get_phone(text):
     course = get_course(text)
+    response = {}
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
 
@@ -18,7 +19,9 @@ def get_phone(text):
     if not instructor:
         return "Sorry no instructor details found for " + course_section_name
     else:
-        return instructor['name'] + "'s phone number is: " + instructor['office_phone']
+        response["instructor_name"] = instructor['name']
+        response["phn_no"] = instructor['office_phone']
+        return response
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)

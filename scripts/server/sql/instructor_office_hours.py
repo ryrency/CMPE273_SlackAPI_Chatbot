@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_hours(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,7 +19,10 @@ def get_hours(text):
     if not instructor:
         return "Sorry no instructor details found for " + course_section_name
     else:
-        return instructor['name'] + "'s office hours are: " + str(instructor['office_start_time']) + "-" + str(instructor['office_end_time'])
+        response["office_hours_start_time"] = instructor['office_start_time']
+        response["office_hours_end_time"] = instructor['office_end_time']
+        response["instructor_name"] = instructor['name']
+        return response
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)

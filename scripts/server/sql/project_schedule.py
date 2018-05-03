@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_project_schedule(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,7 +19,8 @@ def get_project_schedule(text):
     if not project_schedules or len(project_schedules) <= 0:
         return "Sorry no project schedules found for " + course_section_name
     else:
-        return course_section_name + " project is due at " + str(project_schedules[0]['due_date'])
+        response["due_date"] = project_schedules[0]['due_date']
+        return response
 
 def _get_project_schedules(course_section_id):
     #get instructor now

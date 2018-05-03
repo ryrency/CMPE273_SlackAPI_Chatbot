@@ -2,6 +2,7 @@ from course import *
 from course_section import *
 
 def get_url(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -16,5 +17,5 @@ def get_url(text):
 
     if not course_section_details:
         return "Sorry no class location found for " + course_section_name
-
-    return course_section_name + "'s website url is " + course_section_details['course_website']
+    response["course_website"] =  course_section_details['course_website']
+    return response

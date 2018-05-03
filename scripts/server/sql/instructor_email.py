@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_email(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,7 +19,8 @@ def get_email(text):
     if not instructor:
         return "Sorry no instructor details found for " + course_section_name
     else:
-        return instructor['name'] + "'s email is: " + instructor['email']
+        response["instructor_email"] = instructor['email']
+        return response
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)

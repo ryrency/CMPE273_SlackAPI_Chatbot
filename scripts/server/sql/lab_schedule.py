@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_lab_schedule(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -23,7 +24,9 @@ def get_lab_schedule(text):
         if seq_no > 0 and seq_no <= len(lab_schedules):
             due_date = str(lab_schedules[seq_no - 1]['due_date'])
             activity = lab_schedules[seq_no - 1]['activity']
-            return course_section_name + " " + activity + " is due at " + due_date
+            response["activity"] = activity
+            response["due_date"] = due_date
+            return response
         else:
             all_labs_schedule = {}
             for l_s in lab_schedules:

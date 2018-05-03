@@ -4,6 +4,7 @@ from course_section import *
 import json
 
 def get_final_exam_schedule(text):
+    response = {}
     course = get_course(text)
     if not course:
         return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
@@ -18,7 +19,8 @@ def get_final_exam_schedule(text):
     if not final_exam_schedules or len(final_exam_schedules) <= 0:
         return "Sorry no final_exam schedules found for " + course_section_name
     else:
-        return course_section_name + " final exam will be held on " + str(final_exam_schedules[0]['due_date'])
+        response["due_date"] = final_exam_schedules[0]['due_date']
+        return response
         
 def _get_final_exam_schedules(course_section_id):
     #get instructor now
