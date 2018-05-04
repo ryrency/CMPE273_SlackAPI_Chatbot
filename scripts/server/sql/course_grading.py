@@ -7,17 +7,17 @@ def get_course_grading_details(text):
     response = {}
     course = get_course(text)
     if not course:
-        return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
+        return {"error":"Sorry no matching courses found. valid courses are: " + str(get_all_course_names())}
 
     (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found for " + course['name']
+        return {"error":"Sorry no matching section found for " + course['name']}
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
     course_weights = _get_course_weights(course_section['id'])
     if not course_weights or len(course_weights) <= 0:
-        return "Sorry no grading details found for " + course_section_name
+        return {"error":"Sorry no grading details found for " + course_section_name}
     else:
         activity_type = _get_activity_type(text)
 
@@ -33,14 +33,14 @@ def get_course_grading_details(text):
             for c_w in course_weights:
                 weights[c_w['activity']] = c_w['weight']
 
-            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)
+            return {"error":"Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)}
         else:
             # if no matching activity found, return the grading policy for course
             weights = {}
             for c_w in course_weights:
                 weights[c_w['activity']] = c_w['weight']
 
-            return "Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)
+            return {"error":"Here is the grading policy for the course " + course_section_name + ": " + json.dumps(weights, cls=DateTimeEncoder)}
 
 def _get_course_weights(course_section_id):
     connection = get_mysql_connection()

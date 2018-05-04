@@ -5,11 +5,11 @@ def get_timings(text):
     course = get_course(text)
     response = {}
     if not course:
-        return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
+        return {"error":"Sorry no matching courses found. valid courses are: " + str(get_all_course_names())}
 
     (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found for " + course['name']
+        return {"error":"Sorry no matching section found for " + course['name']}
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
@@ -20,7 +20,7 @@ def get_timings(text):
     c_e_t = course_section_details['class_end_time']
 
     if not course_section_details or not d_o_w or not c_s_t or not c_e_t:
-        return "Sorry I don't know about " + course_section_name + " timings"
+        return {"error":"Sorry I don't know about " + course_section_name + " timings"}
     response["day"] = d_o_w
     response["class_start_time"] = c_s_t
     response["class_end_time"] = c_e_t

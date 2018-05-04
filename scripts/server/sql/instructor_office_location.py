@@ -7,17 +7,17 @@ def get_location(text):
     response = {}
     course = get_course(text)
     if not course:
-        return "Sorry no matching courses found. valid courses are: " + str(get_all_course_names())
+        return {"error":"Sorry no matching courses found. valid courses are: " + str(get_all_course_names())}
 
     (course_section, text) = get_course_section(text, course)
     if not course_section:
-        return "Sorry no matching section found for " + course['name']
+        return {"error":"Sorry no matching section found for " + course['name']}
 
     course_section_name = course['name'] + "-" + str(course_section['section_no'])
 
     instructor = _get_instructor(course_section['id'])
     if not instructor:
-        return "Sorry no instructor details found for " + course_section_name
+        return {"error":"Sorry no instructor details found for " + course_section_name}
     else:
         response["office_location"] = instructor['office_location']
         response["instructor_name"] = instructor['name']
