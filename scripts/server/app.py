@@ -76,7 +76,7 @@ def _get_answer(text):
     elif label == 'reference_materials':
         return _prepare_response(23, reference_materials.get_reference_material(text))
     else:
-        return _prepare_response(24, "Sorry I don't understand.")
+        return _prepare_response(-1, {"error": "Sorry I don't understand your question."})
 
 def _prepare_response(categoryType, category_response):
     category_response['categoryType'] = categoryType
