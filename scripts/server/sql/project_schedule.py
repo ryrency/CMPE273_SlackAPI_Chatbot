@@ -1,7 +1,7 @@
 from utils import *
 from course import *
 from course_section import *
-import json
+import json, utils
 
 def get_project_schedule(text):
     response = {}
@@ -19,7 +19,8 @@ def get_project_schedule(text):
     if not project_schedules or len(project_schedules) <= 0:
         return {"error":"Sorry no project schedules found for " + course_section_name}
     else:
-        response["due_date"] = project_schedules[0]['due_date']
+        json_date = utils.DateTimeEncoder();
+        response["due_date"] = json_date.default(project_schedules[0]['due_date'])
         return response
 
 def _get_project_schedules(course_section_id):
