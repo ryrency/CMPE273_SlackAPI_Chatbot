@@ -1,7 +1,7 @@
 from utils import *
 from course import *
 from course_section import *
-import json
+import json, utils
 
 def get_mid_term_schedule(text):
     response = {}
@@ -19,7 +19,8 @@ def get_mid_term_schedule(text):
     if not mid_term_schedules or len(mid_term_schedules) <= 0:
         return {"error":"Sorry no mid_term schedules found for " + course_section_name}
     else:
-        response["due_date"] = mid_term_schedules[0]['due_date']
+        json_date = utils.DateTimeEncoder();
+        response["due_date"] = json_date.default(mid_term_schedules[0]['due_date'])
         return response
 
 def _get_mid_term_schedules(course_section_id):

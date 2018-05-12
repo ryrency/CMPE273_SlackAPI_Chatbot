@@ -2,6 +2,7 @@ from utils import *
 from course import *
 from course_section import *
 import json
+import utils
 
 def get_final_exam_schedule(text):
     response = {}
@@ -19,7 +20,8 @@ def get_final_exam_schedule(text):
     if not final_exam_schedules or len(final_exam_schedules) <= 0:
         return {"error":"Sorry no final_exam schedules found for " + course_section_name}
     else:
-        response["due_date"] = final_exam_schedules[0]['due_date']
+        json_date = utils.DateTimeEncoder();
+        response["due_date"] = json_date.default(final_exam_schedules[0]['due_date'])
         return response
         
 def _get_final_exam_schedules(course_section_id):
