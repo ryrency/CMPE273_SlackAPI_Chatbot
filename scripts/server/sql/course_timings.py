@@ -21,6 +21,7 @@ def get_timings(text):
 
     if not course_section_details or not d_o_w or not c_s_t or not c_e_t:
         return {"error":"Sorry I don't know about " + course_section_name + " timings"}
+    response["course_name"] = course['name'];
     response["day"] = d_o_w
     response["class_start_time"] = c_s_t
     response["class_end_time"] = c_e_t
