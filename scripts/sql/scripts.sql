@@ -97,3 +97,9 @@ create table university_policy(
     description text(60000)
 );
 
+
+create table address(
+	building_code varchar(255) not null primary key,
+    latitude float(20),
+    longitude float(20)
+    );

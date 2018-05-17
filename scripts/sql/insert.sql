@@ -277,4 +277,12 @@ INSERT INTO  university_policy(name,description)
 VALUES("ALl Policies","Per University Policy S16-9, university-wide policy information relevant to all courses, such as academic integrity, accommodations, etc. will be available on Office of Graduate and Undergraduate Programs’ Syllabus Information web page at http://www.sjsu.edu/gup/syllabusinfo/”
 ");
 
+*******************************************************************************************************************************************************************/
+/* ADDRESS
+/*******************************************************************************************************************************************************************/
 
+INSERT INTO ADDRESS(building_code, latitude, longitude)
+VALUES("ENG",37.337431,-121.8826122);
+
+INSERT INTO ADDRESS(building_code, latitude, longitude)
+VALUES("SH",37.3339599,-121.8832712);

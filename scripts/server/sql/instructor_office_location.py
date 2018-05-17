@@ -19,13 +19,18 @@ def get_location(text):
     if not instructor:
         return {"error":"Sorry no instructor details found for " + course_section_name}
     else:
-        response["office_location"] = instructor['office_location']
-        response["instructor_name"] = instructor['name']
-        return response
+        building_coordinates = _get_location_coordinates(instructor['office_location'])
+        if not building_coordinates:
+            return {"error":"Sorry no instructor details found for " + course_section_name}
+        else:
+            response["office_location"] = instructor['office_location']
+            response["instructor_name"] = instructor['name']
+            response["latitude"] = str(building_coordinates['latitude'])
+            response["longitude"] = str(building_coordinates['longitude'])
+            return response
 
 def _get_instructor(course_section_id):
     course_section_details = get_course_section_details(course_section_id)
-    #print(course_section_details)
     if not course_section_details:
         return None
 
@@ -40,5 +45,23 @@ def _get_instructor(course_section_id):
 
             if len(instructors) > 0:
                 return instructors[0]
+    finally:
+        connection.close()
+
+def _get_location_coordinates(location):
+    building = []
+    for char in location:
+        if not char.isdigit():
+            building.append(char)
+    sjsu_building = ''.join(building)
+
+    connection = get_mysql_connection()
+    try:
+            with connection.cursor() as cursor:
+                sql = "SELECT * FROM address where building_code =\"" + str(sjsu_building)+"\""
+                cursor.execute(sql)
+                building_coordinates = cursor.fetchall()
+            if len(building_coordinates) > 0:                
+                return building_coordinates[0]
     finally:
         connection.close()
