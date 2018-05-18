@@ -1,5 +1,6 @@
 from utils import *
 from course import *
+from course import _get_location_coordinates
 from course_section import *
 import json
 
@@ -23,9 +24,9 @@ def get_location(text):
         if not building_coordinates:
             return {"error":"Sorry no instructor details found for " + course_section_name}
         else:
-            response["office_location"] = instructor['office_location']
             response["instructor_name"] = instructor['name']
             response["latitude"] = str(building_coordinates['latitude'])
+            response["office_location"] = instructor['office_location']
             response["longitude"] = str(building_coordinates['longitude'])
             return response
 
@@ -48,20 +49,3 @@ def _get_instructor(course_section_id):
     finally:
         connection.close()
 
-def _get_location_coordinates(location):
-    building = []
-    for char in location:
-        if not char.isdigit():
-            building.append(char)
-    sjsu_building = ''.join(building)
-
-    connection = get_mysql_connection()
-    try:
-            with connection.cursor() as cursor:
-                sql = "SELECT * FROM address where building_code =\"" + str(sjsu_building)+"\""
-                cursor.execute(sql)
-                building_coordinates = cursor.fetchall()
-            if len(building_coordinates) > 0:                
-                return building_coordinates[0]
-    finally:
-        connection.close()

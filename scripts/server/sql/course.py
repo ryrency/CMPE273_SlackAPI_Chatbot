@@ -49,3 +49,21 @@ def get_course(text):
         connection.close()
 
     return None
+
+def _get_location_coordinates(location):
+    building = []
+    for char in location:
+        if not char.isdigit():
+            building.append(char)
+    sjsu_building = ''.join(building)
+
+    connection = get_mysql_connection()
+    try:
+            with connection.cursor() as cursor:
+                sql = "SELECT * FROM address where building_code =\"" + str(sjsu_building)+"\""
+                cursor.execute(sql)
+                building_coordinates = cursor.fetchall()
+            if len(building_coordinates) > 0:                
+                return building_coordinates[0]
+    finally:
+        connection.close()

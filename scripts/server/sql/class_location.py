@@ -1,4 +1,5 @@
-from course import *
+from course import get_course
+from course import _get_location_coordinates
 from course_section import *
 
 def get_location(text):
@@ -17,6 +18,13 @@ def get_location(text):
 
     if not course_section_details:
         return {"error":"Sorry no class location found for " + course_section_name}
+    else:
+        response["class location"] = course_section_details['class_location'] 
 
-    response["class location"] = course_section_details['class_location']
+        building_coordinates = _get_location_coordinates(course_section_details['class_location'])
+        if not building_coordinates:
+            return {"error":"Sorry no class location found for " + course_section_name}
+        else:
+            response["latitude"] = str(building_coordinates['latitude'])
+            response["longitude"] = str(building_coordinates['longitude'])
     return response
