@@ -2,6 +2,7 @@ from utils import *
 import json
 
 def get_university_policy(text):
+    return {"error":"not yet supported"}
     university_policy = _get_university_policies()
     if not university_policy or len(university_policy) <= 0:
         return {"error":"Sorry no university policies found "}
@@ -11,7 +12,7 @@ def get_university_policy(text):
         for u_p in university_policy:
             response.append(u_p['description'])
 
-        return {"error":"Here are the university policies: " + json.dumps(response, ensure_ascii=False)}
+        return {"error": "Here are the university policies: " + json.dumps(response, ensure_ascii=False)}
 
 def _get_university_policies():
 

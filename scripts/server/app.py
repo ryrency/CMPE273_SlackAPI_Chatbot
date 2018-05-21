@@ -56,9 +56,9 @@ def _get_answer(text):
     elif label == 'class_location':
         return _prepare_response(13, class_location.get_location(text))
     elif label == 'course_learning_objectives':
-        return _prepare_response(-1, learning_objectives.get_learning_objectives(text))
+        return _prepare_response(14, learning_objectives.get_learning_objectives(text))
     elif label == 'program_outcome':
-        return _prepare_response(-1, program_outcomes.get_program_outcomes(text))
+        return _prepare_response(15, program_outcomes.get_program_outcomes(text))
     elif label == 'lab_schedule':
         return _prepare_response(16, lab_schedule.get_lab_schedule(text))
     elif label == 'assignment_schedule':
